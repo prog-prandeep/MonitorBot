@@ -1,0 +1,930 @@
+2025-11-04 12:11:11,632 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 12:11:11,634 [INFO] ✅ Loaded 5 sessions
+2025-11-04 12:11:11,637 [INFO] logging in using static token
+2025-11-04 12:11:13,308 [INFO] Shard ID None has connected to Gateway (Session ID: 583e1a9e555940e066036e5886942c58).
+2025-11-04 12:11:15,314 [INFO] Bot logged in as The Goat#3906
+2025-11-04 12:11:15,315 [INFO] Session-based mode: ENABLED
+2025-11-04 12:11:15,315 [INFO] Active sessions: 5
+2025-11-04 12:11:15,315 [INFO] Screenshot feature: ENABLED
+2025-11-04 12:11:15,315 [INFO] Check interval: 2-5 minutes
+2025-11-04 12:12:00,143 [INFO] Shutting down bot...
+2025-11-04 12:12:27,389 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 12:12:27,390 [INFO] ✅ Loaded 5 sessions
+2025-11-04 12:12:27,391 [INFO] logging in using static token
+2025-11-04 12:12:29,272 [INFO] Shard ID None has connected to Gateway (Session ID: 9244cd2615a3ca5a9535b3041e97368c).
+2025-11-04 12:12:31,276 [INFO] Bot logged in as The Goat#3906
+2025-11-04 12:12:31,276 [INFO] Session-based mode: ENABLED
+2025-11-04 12:12:31,276 [INFO] Active sessions: 5
+2025-11-04 12:12:31,276 [INFO] Screenshot feature: ENABLED
+2025-11-04 12:12:31,277 [INFO] Check interval: 2-5 minutes
+2025-11-04 12:12:58,020 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:12:58,320 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 12:12:58,728 [INFO] Started monitoring @nasa
+2025-11-04 12:13:04,320 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:13:04,467 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 12:13:04,468 [INFO] [@nasa] Account recovered after 5.7s
+2025-11-04 12:13:44,945 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:13:45,156 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 12:13:45,574 [INFO] Started ban monitoring for @meta
+2025-11-04 12:13:51,548 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:13:51,686 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 12:13:51,687 [INFO] [@meta] Ban check - Next in 3 minutes
+2025-11-04 12:14:57,893 [INFO] Shutting down bot...
+2025-11-04 12:15:16,500 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 12:15:16,500 [INFO] ✅ Loaded 5 sessions
+2025-11-04 12:15:16,501 [INFO] logging in using static token
+2025-11-04 12:15:18,582 [INFO] Shard ID None has connected to Gateway (Session ID: fce89ad5af4248ff95f9fba89a47845d).
+2025-11-04 12:15:20,587 [INFO] Bot logged in as The Goat#3906
+2025-11-04 12:15:20,587 [INFO] Session-based mode: ENABLED
+2025-11-04 12:15:20,587 [INFO] Active sessions: 5
+2025-11-04 12:15:20,587 [INFO] Screenshot feature: ENABLED
+2025-11-04 12:15:20,587 [INFO] Check interval: 2-5 minutes
+2025-11-04 12:15:37,349 [WARNING] ⚠️ Session not found
+2025-11-04 12:15:54,876 [WARNING] ⚠️ Session not found
+2025-11-04 12:22:51,892 [INFO] Shutting down bot...
+2025-11-04 12:45:29,717 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 12:45:29,720 [INFO] ✅ Loaded 5 sessions
+2025-11-04 12:45:29,734 [INFO] logging in using static token
+2025-11-04 12:45:31,548 [INFO] Shard ID None has connected to Gateway (Session ID: d126a13f6332ccfc23a858f3648c84d2).
+2025-11-04 12:45:33,556 [INFO] Bot logged in as The Goat#3906
+2025-11-04 12:45:33,556 [INFO] Session-based mode: ENABLED
+2025-11-04 12:45:33,556 [INFO] Active sessions: 5
+2025-11-04 12:45:33,556 [INFO] Screenshot feature: ENABLED
+2025-11-04 12:45:33,557 [INFO] Check interval: 2-5 minutes
+2025-11-04 12:45:52,585 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:45:53,185 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 12:45:53,676 [INFO] Started monitoring @meta
+2025-11-04 12:45:58,747 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:45:59,240 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 12:45:59,665 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:45:59,723 [INFO] Started monitoring @nasa
+2025-11-04 12:46:00,058 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 12:46:00,058 [INFO] [@meta] Account recovered after 6.4s
+2025-11-04 12:46:05,665 [INFO] [@sex] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:46:05,666 [INFO] [@sex] ✅ Success - Profile fetched
+2025-11-04 12:46:05,855 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:46:06,088 [INFO] Started ban monitoring for @sex
+2025-11-04 12:46:06,338 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 12:46:06,338 [INFO] [@nasa] Account recovered after 6.6s
+2025-11-04 12:46:09,525 [INFO] [@sex] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:46:09,525 [INFO] [@sex] ✅ Success - Profile fetched
+2025-11-04 12:46:09,525 [INFO] [@sex] Ban check - Next in 2 minutes
+2025-11-04 12:47:18,733 [INFO] [@spacedispensary.fr] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:47:18,734 [INFO] [@spacedispensary.fr] ✅ Success - Profile fetched
+2025-11-04 12:47:19,144 [INFO] Started ban monitoring for @spacedispensary.fr
+2025-11-04 12:47:22,793 [INFO] [@spacedispensary.fr] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:47:22,793 [INFO] [@spacedispensary.fr] ✅ Success - Profile fetched
+2025-11-04 12:47:22,793 [INFO] [@spacedispensary.fr] Ban check - Next in 2 minutes
+2025-11-04 12:49:46,611 [INFO] [@porn] HTTP 404 via proxy (retry: 0)
+2025-11-04 12:49:46,611 [INFO] [@porn] Account not found / suspended (404)
+2025-11-04 12:49:47,090 [INFO] Started ban monitoring for @porn
+2025-11-04 12:49:50,836 [INFO] [@porn] HTTP 404 via proxy (retry: 0)
+2025-11-04 12:49:50,836 [INFO] [@porn] Account not found / suspended (404)
+2025-11-04 12:49:50,836 [INFO] [@porn] 404 status - possibly banned
+2025-11-04 12:49:50,837 [INFO] [@porn] 🚫 BAN DETECTED after 3.7s
+2025-11-04 12:52:40,547 [WARNING] ⚠️ Ambiguous prefix: 2 sessions match. Be more specific.
+2025-11-04 12:53:25,713 [INFO] 💾 Saved 4 sessions
+2025-11-04 12:53:25,713 [INFO] 🗑️ Removed session (remaining: 4)
+2025-11-04 12:53:32,367 [INFO] 💾 Saved 3 sessions
+2025-11-04 12:53:32,367 [INFO] 🗑️ Removed session (remaining: 3)
+2025-11-04 12:53:41,118 [INFO] 💾 Saved 2 sessions
+2025-11-04 12:53:41,118 [INFO] 🗑️ Removed session (remaining: 2)
+2025-11-04 12:53:48,753 [INFO] 💾 Saved 1 sessions
+2025-11-04 12:53:48,753 [INFO] 🗑️ Removed session (remaining: 1)
+2025-11-04 12:53:56,095 [WARNING] ⚠️ Session not found
+2025-11-04 12:54:09,053 [INFO] 💾 Saved 0 sessions
+2025-11-04 12:54:09,053 [INFO] 🗑️ Removed session (remaining: 0)
+2025-11-04 12:54:53,897 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:54:54,104 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 12:54:54,105 [INFO] Started monitoring @instagram
+2025-11-04 12:54:57,763 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:54:57,959 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 12:54:57,959 [INFO] [@instagram] Account recovered after 3.9s
+2025-11-04 12:55:05,897 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 12:55:06,232 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 12:55:06,233 [INFO] Started monitoring @meta
+2025-11-04 12:55:09,389 [INFO] [@meta] HTTP 401 via proxy (retry: 0)
+2025-11-04 12:55:09,389 [WARNING] [@meta] Auth error (401) - rotating session
+2025-11-04 12:55:09,389 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-04 12:55:16,483 [INFO] [@nasa] HTTP 401 via proxy (retry: 0)
+2025-11-04 12:55:16,483 [WARNING] [@nasa] Auth error (401) - rotating session
+2025-11-04 12:55:16,483 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-04 12:56:25,659 [INFO] Retry 1/3 for @meta after 83.2s delay
+2025-11-04 12:56:57,892 [INFO] Retry 1/3 for @nasa after 82.0s delay
+2025-11-04 12:57:43,925 [INFO] Shutting down bot...
+2025-11-04 13:01:35,964 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 13:01:35,966 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 13:01:35,967 [INFO] logging in using static token
+2025-11-04 13:01:37,727 [INFO] Shard ID None has connected to Gateway (Session ID: 4e6ec5097cf7c4f15e4d1e809c53e9ea).
+2025-11-04 13:01:39,734 [INFO] Bot logged in as The Goat#3906
+2025-11-04 13:01:39,735 [INFO] Session-based mode: ENABLED
+2025-11-04 13:01:39,735 [INFO] Active sessions: 0
+2025-11-04 13:01:39,735 [INFO] Screenshot feature: ENABLED
+2025-11-04 13:01:39,735 [INFO] Check interval: 0-0 minutes
+2025-11-04 13:01:39,735 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 13:02:03,232 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:02:03,725 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:02:04,126 [INFO] Started monitoring @meta
+2025-11-04 13:02:09,662 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:02:10,045 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:02:10,045 [INFO] [@meta] Account recovered after 5.9s
+2025-11-04 13:03:30,708 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:03:31,026 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:03:31,466 [INFO] Started monitoring @nasa
+2025-11-04 13:03:37,990 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:03:38,728 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:03:38,728 [INFO] [@nasa] Account recovered after 7.3s
+2025-11-04 13:04:14,222 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:14,448 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 13:04:14,449 [INFO] Started monitoring @instagram
+2025-11-04 13:04:20,923 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:20,986 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 13:04:20,987 [INFO] [@instagram] Account recovered after 6.5s
+2025-11-04 13:04:23,861 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:23,917 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:04:23,918 [INFO] Started monitoring @meta
+2025-11-04 13:04:30,409 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:30,461 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:04:30,461 [INFO] [@meta] Account recovered after 6.5s
+2025-11-04 13:04:35,468 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:35,520 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:04:35,522 [INFO] Started monitoring @nasa
+2025-11-04 13:04:41,463 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:41,707 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:04:41,708 [INFO] [@nasa] Account recovered after 6.2s
+2025-11-04 13:04:44,591 [INFO] [@pjvi] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:44,596 [INFO] [@pjvi] ✅ Success - Profile fetched
+2025-11-04 13:04:44,597 [INFO] Started monitoring @pjvi
+2025-11-04 13:04:50,050 [INFO] [@pjvi] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:50,056 [INFO] [@pjvi] ✅ Success - Profile fetched
+2025-11-04 13:04:50,056 [INFO] [@pjvi] Account recovered after 5.5s
+2025-11-04 13:04:53,602 [INFO] [@stickboiz_11] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:53,606 [INFO] [@stickboiz_11] ✅ Success - Profile fetched
+2025-11-04 13:04:53,607 [INFO] Started monitoring @stickboiz_11
+2025-11-04 13:04:56,798 [INFO] [@stickboiz_11] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:04:56,802 [INFO] [@stickboiz_11] ✅ Success - Profile fetched
+2025-11-04 13:04:56,802 [INFO] [@stickboiz_11] Account recovered after 3.2s
+2025-11-04 13:05:01,110 [INFO] [@cristiano] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:05:01,161 [INFO] [@cristiano] ✅ Success - Profile fetched
+2025-11-04 13:05:01,162 [INFO] Started monitoring @cristiano
+2025-11-04 13:05:06,543 [INFO] [@cristiano] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:05:06,593 [INFO] [@cristiano] ✅ Success - Profile fetched
+2025-11-04 13:05:06,593 [INFO] [@cristiano] Account recovered after 5.4s
+2025-11-04 13:05:20,896 [INFO] Shutting down bot...
+2025-11-04 13:05:22,444 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 13:05:22,444 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 13:05:22,445 [INFO] logging in using static token
+2025-11-04 13:05:24,453 [INFO] Shard ID None has connected to Gateway (Session ID: 79edd82f06f2c4f3628ed55369f72fec).
+2025-11-04 13:05:26,476 [INFO] Bot logged in as The Goat#3906
+2025-11-04 13:05:26,476 [INFO] Session-based mode: ENABLED
+2025-11-04 13:05:26,477 [INFO] Active sessions: 0
+2025-11-04 13:05:26,477 [INFO] Screenshot feature: ENABLED
+2025-11-04 13:05:26,477 [INFO] Check interval: 0-0 minutes
+2025-11-04 13:05:26,477 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 13:05:50,440 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:05:50,489 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:05:50,967 [INFO] Started monitoring @nasa
+2025-11-04 13:05:54,874 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:05:54,877 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:05:54,877 [INFO] [@nasa] Account recovered after 3.9s
+2025-11-04 13:06:00,408 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:00,453 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 13:06:00,856 [INFO] Started monitoring @instagram
+2025-11-04 13:06:04,767 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:04,767 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 13:06:04,767 [INFO] [@instagram] Account recovered after 3.9s
+2025-11-04 13:06:25,653 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:25,659 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 13:06:25,660 [INFO] Started monitoring @instagram
+2025-11-04 13:06:29,569 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:29,569 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-04 13:06:29,569 [INFO] [@instagram] Account recovered after 3.9s
+2025-11-04 13:06:33,713 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:33,747 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:06:33,748 [INFO] Started monitoring @meta
+2025-11-04 13:06:38,462 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:38,467 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:06:38,467 [INFO] [@meta] Account recovered after 4.7s
+2025-11-04 13:06:42,882 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:42,887 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:06:42,888 [INFO] Started monitoring @nasa
+2025-11-04 13:06:47,693 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:47,699 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 13:06:47,699 [INFO] [@nasa] Account recovered after 4.8s
+2025-11-04 13:06:50,993 [INFO] [@pjvi] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:50,997 [INFO] [@pjvi] ✅ Success - Profile fetched
+2025-11-04 13:06:50,997 [INFO] Started monitoring @pjvi
+2025-11-04 13:06:55,033 [INFO] [@pjvi] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:55,042 [INFO] [@pjvi] ✅ Success - Profile fetched
+2025-11-04 13:06:55,042 [INFO] [@pjvi] Account recovered after 4.0s
+2025-11-04 13:06:58,418 [INFO] [@stickboiz_11] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:06:58,422 [INFO] [@stickboiz_11] ✅ Success - Profile fetched
+2025-11-04 13:06:58,422 [INFO] Started monitoring @stickboiz_11
+2025-11-04 13:07:03,022 [INFO] [@stickboiz_11] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:07:03,024 [INFO] [@stickboiz_11] ✅ Success - Profile fetched
+2025-11-04 13:07:03,024 [INFO] [@stickboiz_11] Account recovered after 4.6s
+2025-11-04 13:07:05,563 [INFO] [@cristiano] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:07:05,569 [INFO] [@cristiano] ✅ Success - Profile fetched
+2025-11-04 13:07:05,570 [INFO] Started monitoring @cristiano
+2025-11-04 13:07:10,047 [INFO] [@cristiano] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:07:10,054 [INFO] [@cristiano] ✅ Success - Profile fetched
+2025-11-04 13:07:10,055 [INFO] [@cristiano] Account recovered after 4.5s
+2025-11-04 13:10:49,394 [INFO] Shutting down bot...
+2025-11-04 13:10:50,668 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 13:10:50,668 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 13:10:50,669 [INFO] logging in using static token
+2025-11-04 13:10:52,282 [INFO] Shard ID None has connected to Gateway (Session ID: ae5325729b1a52d2d14266d3664d9207).
+2025-11-04 13:10:54,292 [INFO] Bot logged in as The Goat#3906
+2025-11-04 13:10:54,292 [INFO] Session-based mode: ENABLED
+2025-11-04 13:10:54,292 [INFO] Active sessions: 0
+2025-11-04 13:10:54,292 [INFO] Screenshot feature: ENABLED
+2025-11-04 13:10:54,293 [INFO] Check interval: 0-0 minutes
+2025-11-04 13:10:54,293 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 13:13:09,276 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 13:13:09,279 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 13:13:09,283 [INFO] logging in using static token
+2025-11-04 13:13:10,973 [INFO] Shard ID None has connected to Gateway (Session ID: 3b3cca38b1a993f125ee5bfef51b74d1).
+2025-11-04 13:13:12,994 [INFO] Bot logged in as The Goat#3906
+2025-11-04 13:13:12,994 [INFO] Session-based mode: ENABLED
+2025-11-04 13:13:12,994 [INFO] Active sessions: 0
+2025-11-04 13:13:12,994 [INFO] Screenshot feature: ENABLED
+2025-11-04 13:13:12,994 [INFO] Check interval: 0-1 minutes
+2025-11-04 13:13:12,994 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 13:13:33,715 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:13:34,089 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:13:34,590 [INFO] Started monitoring @meta
+2025-11-04 13:13:41,311 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:13:41,385 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 13:13:41,386 [INFO] [@meta] Account recovered after 6.8s
+2025-11-04 13:14:29,949 [INFO] [@yadav_rahul_280] HTTP 401 via proxy (retry: 0)
+2025-11-04 13:14:29,950 [WARNING] [@yadav_rahul_280] Auth error (401) - rotating session
+2025-11-04 13:14:29,950 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-04 13:14:47,744 [INFO] Shutting down bot...
+2025-11-04 13:14:49,605 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 13:14:49,606 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 13:14:49,606 [INFO] logging in using static token
+2025-11-04 13:14:51,327 [INFO] Shard ID None has connected to Gateway (Session ID: 54cb9edce8558b660ee9e79a46b4dfb8).
+2025-11-04 13:14:53,340 [INFO] Bot logged in as The Goat#3906
+2025-11-04 13:14:53,341 [INFO] Session-based mode: ENABLED
+2025-11-04 13:14:53,341 [INFO] Active sessions: 0
+2025-11-04 13:14:53,341 [INFO] Screenshot feature: ENABLED
+2025-11-04 13:14:53,341 [INFO] Check interval: 0-1 minutes
+2025-11-04 13:14:53,341 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 13:15:00,892 [INFO] [@yadav_rahul_280] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:15:00,893 [INFO] [@yadav_rahul_280] ✅ Success - Profile fetched
+2025-11-04 13:15:01,531 [INFO] Started monitoring @yadav_rahul_280
+2025-11-04 13:15:05,696 [INFO] [@yadav_rahul_280] HTTP 200 via proxy (retry: 0)
+2025-11-04 13:15:05,702 [INFO] [@yadav_rahul_280] ✅ Success - Profile fetched
+2025-11-04 13:15:05,703 [INFO] [@yadav_rahul_280] Account recovered after 4.2s
+2025-11-04 15:21:01,465 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 15:21:01,479 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 15:21:01,511 [INFO] logging in using static token
+2025-11-04 15:21:03,165 [INFO] Shard ID None has connected to Gateway (Session ID: bdda3f004801c55d51867e4d8eab6cb4).
+2025-11-04 15:21:05,202 [INFO] Bot logged in as The Goat#3906
+2025-11-04 15:21:05,202 [INFO] Session-based mode: ENABLED
+2025-11-04 15:21:05,202 [INFO] Active sessions: 0
+2025-11-04 15:21:05,203 [INFO] Screenshot feature: ENABLED
+2025-11-04 15:21:05,203 [INFO] Check interval: 0-1 minutes
+2025-11-04 15:21:05,203 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 15:36:47,789 [ERROR] Attempting a reconnect in 0.22s
+Traceback (most recent call last):
+  File "/root/Bot/venv/lib/python3.12/site-packages/discord/client.py", line 727, in connect
+    await self.ws.poll_event()
+  File "/root/Bot/venv/lib/python3.12/site-packages/discord/gateway.py", line 635, in poll_event
+    await self.received_message(msg.data)
+  File "/root/Bot/venv/lib/python3.12/site-packages/discord/gateway.py", line 540, in received_message
+    await self.send_as_json(beat)
+  File "/root/Bot/venv/lib/python3.12/site-packages/discord/gateway.py", line 671, in send_as_json
+    await self.send(utils._to_json(data))
+  File "/root/Bot/venv/lib/python3.12/site-packages/discord/gateway.py", line 667, in send
+    await self.socket.send_str(data)
+  File "/root/Bot/venv/lib/python3.12/site-packages/aiohttp/client_ws.py", line 245, in send_str
+    await self._writer.send_frame(
+  File "/root/Bot/venv/lib/python3.12/site-packages/aiohttp/_websocket/writer.py", line 83, in send_frame
+    self._write_websocket_frame(message, opcode, 0)
+  File "/root/Bot/venv/lib/python3.12/site-packages/aiohttp/_websocket/writer.py", line 151, in _write_websocket_frame
+    raise ClientConnectionResetError("Cannot write to closing transport")
+aiohttp.client_exceptions.ClientConnectionResetError: Cannot write to closing transport
+2025-11-04 15:36:47,908 [WARNING] Shard ID None heartbeat blocked for more than 10 seconds.
+Loop thread traceback (most recent call last):
+  File "/root/Bot/cl1/main.py", line 173, in <module>
+    main()
+  File "/root/Bot/cl1/main.py", line 164, in main
+    client.run(config.discord_token)
+  File "/root/Bot/venv/lib/python3.12/site-packages/discord/client.py", line 929, in run
+    asyncio.run(runner())
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 674, in run_until_complete
+    self.run_forever()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 641, in run_forever
+    self._run_once()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 1988, in _run_once
+    handle = None  # Needed to break cycles when an exception occurs.
+  File "/usr/lib/python3.12/asyncio/events.py", line 103, in _run
+    self = None  # Needed to break cycles when an exception occurs.
+  File "/usr/lib/python3.12/asyncio/selector_events.py", line 970, in _read_ready
+    self._read_ready_cb()
+  File "/usr/lib/python3.12/asyncio/selector_events.py", line 1002, in _read_ready__get_buffer
+    self._protocol.buffer_updated(nbytes)
+  File "/usr/lib/python3.12/asyncio/sslproto.py", line 442, in buffer_updated
+    self._do_read()
+  File "/usr/lib/python3.12/asyncio/sslproto.py", line 742, in _do_read
+    self._control_ssl_reading()
+  File "/usr/lib/python3.12/asyncio/sslproto.py", line 803, in _do_read__copied
+    self._start_shutdown()
+  File "/usr/lib/python3.12/asyncio/sslproto.py", line 628, in _start_shutdown
+    self._do_flush()
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 765, in call_later
+    return timer
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 783, in call_at
+    return timer
+
+2025-11-04 15:36:49,306 [INFO] Shutting down bot...
+2025-11-04 16:44:04,700 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 16:44:04,702 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 16:44:04,706 [INFO] logging in using static token
+2025-11-04 16:44:06,741 [INFO] Shard ID None has connected to Gateway (Session ID: 0848e5c053805be28d68615c0f7cfad1).
+2025-11-04 16:44:08,751 [INFO] Bot logged in as The Goat#3906
+2025-11-04 16:44:08,752 [INFO] Session-based mode: ENABLED
+2025-11-04 16:44:08,752 [INFO] Active sessions: 0
+2025-11-04 16:44:08,752 [INFO] Screenshot feature: ENABLED
+2025-11-04 16:44:08,753 [INFO] Check interval: 0-1 minutes
+2025-11-04 16:44:08,753 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 16:44:37,102 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:44:37,314 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 16:44:37,964 [INFO] Started monitoring @meta
+2025-11-04 16:44:42,556 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:44:42,659 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 16:44:42,659 [INFO] [@meta] Account recovered after 4.7s
+2025-11-04 16:44:49,460 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:44:49,461 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-04 16:44:49,869 [INFO] Started monitoring @tanmyz
+2025-11-04 16:44:54,995 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:44:54,995 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-04 16:44:54,995 [INFO] [@tanmyz] Account recovered after 5.1s
+2025-11-04 16:45:15,286 [ERROR] [@meta] Request error: Cannot connect to host i.instagram.com:443 ssl:default [[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1000)]
+2025-11-04 16:45:15,287 [INFO] Retry 1/3 for @meta after 81.6s delay
+2025-11-04 16:45:47,684 [INFO] Shutting down bot...
+2025-11-04 16:46:57,292 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 16:46:57,389 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 16:46:57,692 [INFO] logging in using static token
+2025-11-04 16:47:00,196 [INFO] Shard ID None has connected to Gateway (Session ID: 04af13bdb34da3ad8e309796e007ad9d).
+2025-11-04 16:47:02,203 [INFO] Bot logged in as The Goat#3906
+2025-11-04 16:47:02,203 [INFO] Session-based mode: ENABLED
+2025-11-04 16:47:02,203 [INFO] Active sessions: 0
+2025-11-04 16:47:02,203 [INFO] Screenshot feature: ENABLED
+2025-11-04 16:47:02,203 [INFO] Check interval: 0-1 minutes
+2025-11-04 16:47:02,204 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 16:47:17,440 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:47:17,647 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 16:47:18,120 [INFO] Started monitoring @nasa
+2025-11-04 16:47:24,697 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:47:24,810 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-04 16:47:24,810 [INFO] [@nasa] Account recovered after 6.7s
+2025-11-04 16:47:39,569 [INFO] [@wetkitycity] HTTP 404 via proxy (retry: 0)
+2025-11-04 16:47:39,570 [INFO] [@wetkitycity] Account not found / suspended (404)
+2025-11-04 16:47:40,150 [INFO] Started ban monitoring for @wetkitycity
+2025-11-04 16:47:45,400 [INFO] [@wetkitycity] HTTP 404 via proxy (retry: 0)
+2025-11-04 16:47:45,400 [INFO] [@wetkitycity] Account not found / suspended (404)
+2025-11-04 16:47:45,400 [INFO] [@wetkitycity] 404 status - possibly banned
+2025-11-04 16:47:45,400 [INFO] [@wetkitycity] 🚫 BAN DETECTED after 5.2s
+2025-11-04 16:49:03,910 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:49:03,910 [INFO] [@mdu] ✅ Success - Profile fetched
+2025-11-04 16:49:04,356 [INFO] Started ban monitoring for @mdu
+2025-11-04 16:49:09,133 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:49:09,134 [INFO] [@mdu] ✅ Success - Profile fetched
+2025-11-04 16:49:09,134 [INFO] [@mdu] Ban check - Next in 1 minutes
+2025-11-04 16:49:31,118 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:49:31,118 [INFO] [@mdu] ✅ Success - Profile fetched
+2025-11-04 16:49:31,540 [INFO] Started monitoring @mdu
+2025-11-04 16:49:35,126 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:49:35,126 [INFO] [@mdu] ✅ Success - Profile fetched
+2025-11-04 16:49:35,126 [INFO] [@mdu] Next check in 40 seconds
+2025-11-04 16:49:40,248 [INFO] Shutting down bot...
+2025-11-04 16:50:36,425 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 16:50:36,433 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 16:50:36,440 [INFO] logging in using static token
+2025-11-04 16:50:38,278 [INFO] Shard ID None has connected to Gateway (Session ID: 9a3a486279424ce1f54c5fcb1ae8330d).
+2025-11-04 16:50:40,282 [INFO] Bot logged in as The Goat#3906
+2025-11-04 16:50:40,282 [INFO] Session-based mode: ENABLED
+2025-11-04 16:50:40,283 [INFO] Active sessions: 0
+2025-11-04 16:50:40,283 [INFO] Screenshot feature: ENABLED
+2025-11-04 16:50:40,283 [INFO] Check interval: 0-1 minutes
+2025-11-04 16:50:40,283 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 16:51:10,140 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:51:10,140 [INFO] [@mdu] ✅ Success - Profile fetched
+2025-11-04 16:51:10,664 [INFO] Started ban monitoring for @mdu
+2025-11-04 16:51:14,061 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:51:14,062 [INFO] [@mdu] ✅ Success - Profile fetched
+2025-11-04 16:51:14,062 [INFO] [@mdu] Ban check - Next in 1 minutes
+2025-11-04 16:51:21,818 [INFO] Shutting down bot...
+2025-11-04 16:52:40,237 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 16:52:40,239 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 16:52:40,242 [INFO] logging in using static token
+2025-11-04 16:52:41,979 [INFO] Shard ID None has connected to Gateway (Session ID: 74d6d18c0203fe5d39e138ab222cca28).
+2025-11-04 16:52:43,989 [INFO] Bot logged in as The Goat#3906
+2025-11-04 16:52:43,989 [INFO] Session-based mode: ENABLED
+2025-11-04 16:52:43,990 [INFO] Active sessions: 0
+2025-11-04 16:52:43,990 [INFO] Screenshot feature: ENABLED
+2025-11-04 16:52:43,990 [INFO] Check interval: 0-1 minutes
+2025-11-04 16:52:43,990 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 16:52:55,719 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:52:55,719 [INFO] [@mdu] ✅ Success - Profile fetched
+2025-11-04 16:52:56,102 [INFO] Started ban monitoring for @mdu
+2025-11-04 16:53:39,125 [INFO] Shutting down bot...
+2025-11-04 16:56:27,785 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-04 16:56:27,787 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-04 16:56:27,787 [INFO] logging in using static token
+2025-11-04 16:56:29,635 [INFO] Shard ID None has connected to Gateway (Session ID: 7ea401dcfd5f0d9c6ad125e71c24c14e).
+2025-11-04 16:56:31,639 [INFO] Bot logged in as The Goat#3906
+2025-11-04 16:56:31,639 [INFO] Session-based mode: ENABLED
+2025-11-04 16:56:31,639 [INFO] Active sessions: 0
+2025-11-04 16:56:31,639 [INFO] Screenshot feature: ENABLED
+2025-11-04 16:56:31,639 [INFO] Check interval: 0-1 minutes
+2025-11-04 16:56:31,639 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-04 16:56:42,618 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:56:43,063 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 16:56:43,601 [INFO] Started monitoring @meta
+2025-11-04 16:56:50,008 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:56:50,181 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-04 16:56:50,182 [INFO] [@meta] Account recovered after 6.6s
+2025-11-04 16:57:32,705 [INFO] [@naomi.clrk] HTTP 200 via proxy (retry: 0)
+2025-11-04 16:57:32,705 [WARNING] [@naomi.clrk] Unexpected status 200
+2025-11-04 16:57:32,705 [INFO] Retry 1/3 for @naomi.clrk after 72.2s delay
+2025-11-04 16:57:44,260 [INFO] Shutting down bot...
+2025-11-05 00:23:00,562 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 00:23:00,564 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 00:23:00,566 [INFO] logging in using static token
+2025-11-05 00:23:02,393 [INFO] Shard ID None has connected to Gateway (Session ID: d570f8df57937d7ca784bb605d6beaa6).
+2025-11-05 00:23:04,401 [INFO] Bot logged in as The Goat#3906
+2025-11-05 00:23:04,401 [INFO] Session-based mode: ENABLED
+2025-11-05 00:23:04,401 [INFO] Active sessions: 0
+2025-11-05 00:23:04,401 [INFO] Screenshot feature: ENABLED
+2025-11-05 00:23:04,401 [INFO] Check interval: 0-1 minutes
+2025-11-05 00:23:04,401 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 00:23:53,569 [INFO] [@meta] HTTP 401 via proxy (retry: 0)
+2025-11-05 00:23:53,569 [WARNING] [@meta] Auth error (401) - rotating session
+2025-11-05 00:23:53,569 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 00:25:09,461 [INFO] Retry 1/3 for @meta after 82.7s delay
+2025-11-05 00:25:45,108 [INFO] [@nasa] HTTP 401 via proxy (retry: 0)
+2025-11-05 00:25:45,108 [WARNING] [@nasa] Auth error (401) - rotating session
+2025-11-05 00:25:45,109 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 00:26:01,837 [INFO] Shutting down bot...
+2025-11-05 00:37:13,515 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 00:37:13,516 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 00:37:13,522 [INFO] logging in using static token
+2025-11-05 00:37:15,578 [INFO] Shard ID None has connected to Gateway (Session ID: 56cf735eae1a6358c6e43248f0ac61e3).
+2025-11-05 00:37:17,585 [INFO] Bot logged in as The Goat#3906
+2025-11-05 00:37:17,585 [INFO] Session-based mode: ENABLED
+2025-11-05 00:37:17,585 [INFO] Active sessions: 0
+2025-11-05 00:37:17,585 [INFO] Screenshot feature: ENABLED
+2025-11-05 00:37:17,585 [INFO] Check interval: 0-1 minutes
+2025-11-05 00:37:17,585 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 00:38:04,684 [INFO] [@meta] HTTP 401 via proxy (retry: 0)
+2025-11-05 00:38:04,684 [WARNING] [@meta] Auth error (401) - rotating session
+2025-11-05 00:38:04,684 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 00:38:28,402 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:38:28,677 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 00:38:29,101 [INFO] Started monitoring @nasa
+2025-11-05 00:38:34,603 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:38:35,033 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 00:38:35,039 [INFO] [@nasa] Account recovered after 5.9s
+2025-11-05 00:39:40,664 [INFO] Retry 1/3 for @meta after 78.7s delay
+2025-11-05 00:42:49,486 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 00:42:49,500 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 00:42:49,512 [INFO] logging in using static token
+2025-11-05 00:42:52,214 [INFO] Shard ID None has connected to Gateway (Session ID: 8015b295aeb3d6527b874a05ae3b4fec).
+2025-11-05 00:42:54,220 [INFO] Bot logged in as The Goat#3906
+2025-11-05 00:42:54,220 [INFO] Session-based mode: ENABLED
+2025-11-05 00:42:54,220 [INFO] Active sessions: 0
+2025-11-05 00:42:54,220 [INFO] Screenshot feature: ENABLED
+2025-11-05 00:42:54,221 [INFO] Check interval: 0-1 minutes
+2025-11-05 00:42:54,221 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 00:43:10,568 [INFO] [@instagram] HTTP 401 via proxy (retry: 0)
+2025-11-05 00:43:10,568 [WARNING] [@instagram] Auth error (401) - rotating session
+2025-11-05 00:43:10,568 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 00:43:52,891 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:43:53,092 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 00:43:53,498 [INFO] Started monitoring @meta
+2025-11-05 00:43:58,900 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:43:59,010 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 00:43:59,018 [INFO] [@meta] Account recovered after 5.5s
+2025-11-05 00:44:07,969 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:44:08,018 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:44:08,412 [INFO] Started monitoring @instagram
+2025-11-05 00:44:13,159 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:44:13,550 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:44:13,557 [INFO] [@instagram] Account recovered after 5.1s
+2025-11-05 00:44:14,342 [INFO] Retry 1/3 for @instagram after 85.1s delay
+2025-11-05 00:44:36,192 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:44:36,192 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:44:36,623 [INFO] Started ban monitoring for @dinar
+2025-11-05 00:44:40,212 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:44:40,213 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:44:40,213 [INFO] [@dinar] Ban check - Next in 1 minutes
+2025-11-05 00:44:53,105 [INFO] Shutting down bot...
+2025-11-05 00:45:05,683 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 00:45:05,684 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 00:45:05,685 [INFO] logging in using static token
+2025-11-05 00:45:07,305 [INFO] Shard ID None has connected to Gateway (Session ID: 1bca93dcdc769132befe3f3a035043db).
+2025-11-05 00:45:09,311 [INFO] Bot logged in as The Goat#3906
+2025-11-05 00:45:09,311 [INFO] Session-based mode: ENABLED
+2025-11-05 00:45:09,311 [INFO] Active sessions: 0
+2025-11-05 00:45:09,311 [INFO] Screenshot feature: ENABLED
+2025-11-05 00:45:09,311 [INFO] Check interval: 0-1 minutes
+2025-11-05 00:45:09,312 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 00:45:21,077 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:45:21,584 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 00:45:22,158 [INFO] Started monitoring @nasa
+2025-11-05 00:45:25,758 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:45:26,159 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 00:45:26,168 [INFO] [@nasa] Account recovered after 4.0s
+2025-11-05 00:45:41,647 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:45:41,647 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:45:42,053 [INFO] Started ban monitoring for @dinar
+2025-11-05 00:45:47,058 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:45:47,058 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:45:47,059 [ERROR] Failed to write debug response.json: name 'json' is not defined
+2025-11-05 00:45:47,059 [INFO] [@dinar] Ban check - Next in 1 minutes
+2025-11-05 00:47:02,042 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:47:02,042 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:47:02,043 [ERROR] Failed to write debug response.json: name 'json' is not defined
+2025-11-05 00:47:02,043 [INFO] [@dinar] Ban check - Next in 1 minutes
+2025-11-05 00:47:18,260 [INFO] Shutting down bot...
+2025-11-05 00:47:28,536 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 00:47:28,536 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 00:47:28,541 [INFO] logging in using static token
+2025-11-05 00:47:30,328 [INFO] Shard ID None has connected to Gateway (Session ID: d21fb3ea0710b09d4ed30d3ca0723b37).
+2025-11-05 00:47:32,335 [INFO] Bot logged in as The Goat#3906
+2025-11-05 00:47:32,335 [INFO] Session-based mode: ENABLED
+2025-11-05 00:47:32,335 [INFO] Active sessions: 0
+2025-11-05 00:47:32,335 [INFO] Screenshot feature: ENABLED
+2025-11-05 00:47:32,335 [INFO] Check interval: 0-1 minutes
+2025-11-05 00:47:32,335 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 00:47:52,003 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:47:52,215 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:47:52,634 [INFO] Started monitoring @instagram
+2025-11-05 00:47:58,519 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:47:58,617 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:47:58,625 [INFO] [@instagram] Account recovered after 6.0s
+2025-11-05 00:48:13,475 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:48:13,555 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:48:13,948 [INFO] Started ban monitoring for @instagram
+2025-11-05 00:48:19,609 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:48:19,646 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:48:19,654 [INFO] [@instagram] Ban check - Next in 1 minutes
+2025-11-05 00:49:02,818 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:49:02,818 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:49:03,262 [INFO] Started ban monitoring for @dinar
+2025-11-05 00:49:07,941 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:49:07,941 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:49:07,942 [INFO] [@dinar] Ban check - Next in 1 minutes
+2025-11-05 00:49:36,200 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:49:36,508 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:49:36,516 [INFO] [@instagram] Ban check - Next in 1 minutes
+2025-11-05 00:49:55,650 [INFO] [@porn] HTTP 404 via proxy (retry: 0)
+2025-11-05 00:49:55,650 [INFO] [@porn] Account not found / suspended (404)
+2025-11-05 00:49:56,158 [INFO] Started ban monitoring for @porn
+2025-11-05 00:50:01,604 [INFO] [@porn] HTTP 404 via proxy (retry: 0)
+2025-11-05 00:50:01,604 [INFO] [@porn] Account not found / suspended (404)
+2025-11-05 00:50:01,605 [INFO] [@porn] 404 status - possibly banned
+2025-11-05 00:50:01,606 [INFO] [@porn] 🚫 BAN DETECTED after 5.4s
+2025-11-05 00:50:40,098 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:50:40,098 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:50:40,099 [INFO] [@dinar] Ban check - Next in 0 minutes
+2025-11-05 00:51:10,261 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:51:10,471 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:51:10,480 [INFO] [@instagram] Ban check - Next in 0 minutes
+2025-11-05 00:51:34,693 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:51:34,694 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:51:34,695 [INFO] [@dinar] Ban check - Next in 1 minutes
+2025-11-05 00:52:13,215 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:52:13,474 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:52:13,488 [INFO] [@instagram] Ban check - Next in 0 minutes
+2025-11-05 00:53:03,198 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:53:03,366 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:53:03,366 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 00:53:03,366 [INFO] [@dinar] Ban check - Next in 1 minutes
+2025-11-05 00:53:05,993 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:53:06,002 [INFO] [@instagram] Ban check - Next in 1 minutes
+2025-11-05 00:53:46,130 [INFO] Shutting down bot...
+2025-11-05 00:53:47,976 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 00:53:47,977 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 00:53:47,981 [INFO] logging in using static token
+2025-11-05 00:53:49,494 [INFO] Shard ID None has connected to Gateway (Session ID: 3c85b3e36b4976a8f38987780f6c9294).
+2025-11-05 00:53:51,514 [INFO] Bot logged in as The Goat#3906
+2025-11-05 00:53:51,514 [INFO] Session-based mode: ENABLED
+2025-11-05 00:53:51,514 [INFO] Active sessions: 0
+2025-11-05 00:53:51,514 [INFO] Screenshot feature: ENABLED
+2025-11-05 00:53:51,514 [INFO] Check interval: 0-1 minutes
+2025-11-05 00:53:51,514 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 00:54:09,509 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:54:09,730 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 00:54:10,165 [INFO] Started ban monitoring for @meta
+2025-11-05 00:54:16,362 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:54:16,423 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 00:54:16,431 [INFO] [@meta] Ban check - Next in 1 minutes
+2025-11-05 00:55:04,149 [INFO] Shutting down bot...
+2025-11-05 00:55:05,523 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 00:55:05,524 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 00:55:05,525 [INFO] logging in using static token
+2025-11-05 00:55:07,272 [INFO] Shard ID None has connected to Gateway (Session ID: 96db1f94a47881c8556f9737c7bd0189).
+2025-11-05 00:55:09,282 [INFO] Bot logged in as The Goat#3906
+2025-11-05 00:55:09,283 [INFO] Session-based mode: ENABLED
+2025-11-05 00:55:09,283 [INFO] Active sessions: 0
+2025-11-05 00:55:09,283 [INFO] Screenshot feature: ENABLED
+2025-11-05 00:55:09,283 [INFO] Check interval: 0-1 minutes
+2025-11-05 00:55:09,283 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 00:55:19,980 [INFO] [@instagram] HTTP 401 via proxy (retry: 0)
+2025-11-05 00:55:19,981 [WARNING] [@instagram] Auth error (401) - rotating session
+2025-11-05 00:55:19,981 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 00:55:28,904 [INFO] [@instagram] HTTP 401 via proxy (retry: 0)
+2025-11-05 00:55:28,905 [WARNING] [@instagram] Auth error (401) - rotating session
+2025-11-05 00:55:28,905 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 00:55:39,635 [INFO] [@nasa] HTTP 401 via proxy (retry: 0)
+2025-11-05 00:55:39,636 [WARNING] [@nasa] Auth error (401) - rotating session
+2025-11-05 00:55:39,636 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 00:56:03,541 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:56:04,463 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:56:04,847 [INFO] Started ban monitoring for @instagram
+2025-11-05 00:56:08,709 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 00:56:09,378 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 00:56:09,386 [INFO] [@instagram] Ban check - Next in 1 minutes
+2025-11-05 00:56:35,275 [INFO] Shutting down bot...
+2025-11-05 01:03:07,419 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 01:03:07,419 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 01:03:07,420 [INFO] logging in using static token
+2025-11-05 01:03:09,287 [INFO] Shard ID None has connected to Gateway (Session ID: 1a50fe8286f06ecbd6760082986b4d54).
+2025-11-05 01:03:11,391 [INFO] Bot logged in as The Goat#3906
+2025-11-05 01:03:11,392 [INFO] Session-based mode: ENABLED
+2025-11-05 01:03:11,392 [INFO] Active sessions: 0
+2025-11-05 01:03:11,392 [INFO] Screenshot feature: ENABLED
+2025-11-05 01:03:11,392 [INFO] Check interval: 0-1 minutes
+2025-11-05 01:03:11,392 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 01:03:22,691 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:03:22,917 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 01:03:23,358 [INFO] Started monitoring @meta
+2025-11-05 01:03:29,654 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:03:29,754 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 01:03:29,754 [INFO] [@meta] Account recovered after 6.4s
+2025-11-05 01:03:45,132 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:03:45,369 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 01:03:45,777 [INFO] Started ban monitoring for @instagram
+2025-11-05 01:03:49,539 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:03:49,612 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 01:03:49,612 [INFO] [@instagram] 🚫 BAN DETECTED after 3.8s
+2025-11-05 01:05:42,031 [INFO] Shutting down bot...
+2025-11-05 01:05:43,837 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 01:05:43,838 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 01:05:43,839 [INFO] logging in using static token
+2025-11-05 01:05:45,687 [INFO] Shard ID None has connected to Gateway (Session ID: 66050f752cb2a144d106c3cfa6f095eb).
+2025-11-05 01:05:47,690 [INFO] Bot logged in as The Goat#3906
+2025-11-05 01:05:47,690 [INFO] Session-based mode: ENABLED
+2025-11-05 01:05:47,690 [INFO] Active sessions: 0
+2025-11-05 01:05:47,690 [INFO] Screenshot feature: ENABLED
+2025-11-05 01:05:47,690 [INFO] Check interval: 0-1 minutes
+2025-11-05 01:05:47,691 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 01:06:00,341 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:06:00,572 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 01:06:01,058 [INFO] Started monitoring @meta
+2025-11-05 01:06:05,470 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:06:05,619 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 01:06:05,619 [INFO] [@meta] Account recovered after 4.6s
+2025-11-05 01:06:17,182 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:06:17,506 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 01:06:17,962 [INFO] Started monitoring @nasa
+2025-11-05 01:06:24,700 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:06:24,835 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 01:06:24,835 [INFO] [@nasa] Account recovered after 6.9s
+2025-11-05 01:06:35,081 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:06:35,265 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 01:06:35,671 [INFO] Started ban monitoring for @instagram
+2025-11-05 01:06:38,875 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:06:39,090 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 01:06:39,090 [INFO] [@instagram] Comparing: requested='instagram' vs response='instagram'
+2025-11-05 01:06:39,091 [INFO] [@instagram] ✅ Username MATCH - Account still active, continuing monitoring
+2025-11-05 01:06:39,091 [INFO] [@instagram] Ban check - Next in 1 minutes
+2025-11-05 01:07:09,958 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:07:10,223 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 01:07:10,224 [INFO] Started ban monitoring for @nasa
+2025-11-05 01:07:14,785 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:07:14,881 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 01:07:14,882 [INFO] [@nasa] Comparing: requested='nasa' vs response='nasa'
+2025-11-05 01:07:14,882 [INFO] [@nasa] ✅ Username MATCH - Account still active, continuing monitoring
+2025-11-05 01:07:14,882 [INFO] [@nasa] Ban check - Next in 1 minutes
+2025-11-05 01:07:19,297 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:07:19,298 [INFO] [@mdu] response received, but username mismatch - possibly banned
+2025-11-05 01:07:19,299 [INFO] Started ban monitoring for @mdu
+2025-11-05 01:07:23,677 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:07:23,678 [INFO] [@mdu] response received, but username mismatch - possibly banned
+2025-11-05 01:07:23,678 [WARNING] [@mdu] 200 but no user data - continuing monitoring
+2025-11-05 01:07:23,678 [INFO] [@mdu] Ban check - Next in 1 minutes
+2025-11-05 01:07:31,492 [INFO] Shutting down bot...
+2025-11-05 01:10:47,864 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 01:10:47,866 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 01:10:47,871 [INFO] logging in using static token
+2025-11-05 01:10:49,557 [INFO] Shard ID None has connected to Gateway (Session ID: 679b93763c5a1671586679a1633f5f39).
+2025-11-05 01:10:51,567 [INFO] Bot logged in as The Goat#3906
+2025-11-05 01:10:51,568 [INFO] Session-based mode: ENABLED
+2025-11-05 01:10:51,568 [INFO] Active sessions: 0
+2025-11-05 01:10:51,569 [INFO] Screenshot feature: ENABLED
+2025-11-05 01:10:51,569 [INFO] Check interval: 0-1 minutes
+2025-11-05 01:10:51,569 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 01:15:35,743 [INFO] Shutting down bot...
+2025-11-05 01:15:38,055 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 01:15:38,055 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 01:15:38,056 [INFO] logging in using static token
+2025-11-05 01:15:39,788 [INFO] Shard ID None has connected to Gateway (Session ID: 087b63584bb21a3c1526165869af5225).
+2025-11-05 01:15:41,794 [INFO] Bot logged in as The Goat#3906
+2025-11-05 01:15:41,795 [INFO] Session-based mode: ENABLED
+2025-11-05 01:15:41,795 [INFO] Active sessions: 0
+2025-11-05 01:15:41,795 [INFO] Screenshot feature: ENABLED
+2025-11-05 01:15:41,795 [INFO] Check interval: 0-1 minutes
+2025-11-05 01:15:41,795 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 01:16:09,764 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:16:09,971 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 01:16:11,683 [INFO] Started monitoring @nasa
+2025-11-05 01:16:18,420 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:16:18,521 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 01:16:18,521 [INFO] [@nasa] Account recovered after 6.8s
+2025-11-05 01:16:32,512 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:16:32,553 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 01:16:32,944 [INFO] Started ban monitoring for @instagram
+2025-11-05 01:16:36,195 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:16:36,236 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 01:16:36,236 [INFO] [@instagram] Comparing: 'instagram' vs 'instagram'
+2025-11-05 01:16:36,236 [INFO] [@instagram] ✅ Username MATCH - Active, continuing monitoring
+2025-11-05 01:16:36,236 [INFO] [@instagram] Ban check - Next in 1 minutes
+2025-11-05 01:16:46,075 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:16:46,075 [INFO] [@mdu] response received, but username mismatch - possibly banned
+2025-11-05 01:16:46,549 [INFO] Started ban monitoring for @mdu
+2025-11-05 01:16:50,560 [INFO] [@mdu] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:16:50,561 [INFO] [@mdu] response received, but username mismatch - possibly banned
+2025-11-05 01:16:50,562 [WARNING] [@mdu] 🚫 200 but NO user data - Account BANNED
+2025-11-05 01:16:50,562 [INFO] [@mdu] 🚫 BAN DETECTED after 4.0s
+2025-11-05 01:17:14,425 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:17:14,425 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 01:17:14,426 [INFO] Started ban monitoring for @dinar
+2025-11-05 01:17:18,313 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:17:18,314 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 01:17:18,314 [WARNING] [@dinar] 🚫 200 but NO user data - Account BANNED
+2025-11-05 01:17:18,314 [INFO] [@dinar] 🚫 BAN DETECTED after 3.9s
+2025-11-05 01:17:25,162 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:17:25,657 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 01:17:25,658 [INFO] Started ban monitoring for @meta
+2025-11-05 01:17:32,642 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:17:32,890 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 01:17:32,890 [INFO] [@meta] Comparing: 'meta' vs 'meta'
+2025-11-05 01:17:32,890 [INFO] [@meta] ✅ Username MATCH - Active, continuing monitoring
+2025-11-05 01:17:32,890 [INFO] [@meta] Ban check - Next in 1 minutes
+2025-11-05 01:17:34,241 [INFO] [@wetkittycity] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:17:34,241 [INFO] [@wetkittycity] response received, but username mismatch - possibly banned
+2025-11-05 01:17:34,242 [INFO] Started ban monitoring for @wetkittycity
+2025-11-05 01:17:37,461 [INFO] [@wetkittycity] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:17:37,461 [INFO] [@wetkittycity] response received, but username mismatch - possibly banned
+2025-11-05 01:17:37,461 [WARNING] [@wetkittycity] 🚫 200 but NO user data - Account BANNED
+2025-11-05 01:17:37,461 [INFO] [@wetkittycity] 🚫 BAN DETECTED after 3.2s
+2025-11-05 01:18:00,255 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:18:00,465 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 01:18:00,465 [INFO] [@instagram] Comparing: 'instagram' vs 'instagram'
+2025-11-05 01:18:00,465 [INFO] [@instagram] ✅ Username MATCH - Active, continuing monitoring
+2025-11-05 01:18:00,466 [INFO] [@instagram] Ban check - Next in 1 minutes
+2025-11-05 01:18:40,483 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 01:18:40,686 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 01:18:40,687 [INFO] [@meta] Comparing: 'meta' vs 'meta'
+2025-11-05 01:18:40,687 [INFO] [@meta] ✅ Username MATCH - Active, continuing monitoring
+2025-11-05 01:18:40,687 [INFO] [@meta] Ban check - Next in 1 minutes
+2025-11-05 01:34:28,713 [INFO] Shutting down bot...
+2025-11-05 03:44:35,634 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 03:44:35,636 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 03:44:35,644 [INFO] logging in using static token
+2025-11-05 03:44:37,179 [INFO] Shard ID None has connected to Gateway (Session ID: cb95599ddc7676af390cc45958b6eed5).
+2025-11-05 03:44:39,190 [INFO] Bot logged in as The Goat#3906
+2025-11-05 03:44:39,190 [INFO] Session-based mode: ENABLED
+2025-11-05 03:44:39,190 [INFO] Active sessions: 0
+2025-11-05 03:44:39,190 [INFO] Screenshot feature: ENABLED
+2025-11-05 03:44:39,190 [INFO] Check interval: 0-1 minutes
+2025-11-05 03:44:39,190 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session
+2025-11-05 03:45:14,619 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:14,856 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 03:45:14,857 [INFO] Started monitoring @meta
+2025-11-05 03:45:21,403 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:21,519 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 03:45:21,519 [INFO] [@meta] Account recovered after 6.7s
+2025-11-05 03:45:24,360 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:24,567 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 03:45:24,568 [INFO] Started monitoring @nasa
+2025-11-05 03:45:29,012 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:29,072 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 03:45:29,072 [INFO] [@nasa] Account recovered after 4.5s
+2025-11-05 03:45:34,237 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:34,298 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 03:45:34,298 [INFO] Started monitoring @instagram
+2025-11-05 03:45:38,083 [INFO] [@instagram] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:38,363 [INFO] [@instagram] ✅ Success - Profile fetched
+2025-11-05 03:45:38,363 [INFO] [@instagram] Account recovered after 4.1s
+2025-11-05 03:45:42,062 [INFO] [@dfy] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:42,071 [INFO] [@dfy] ✅ Success - Profile fetched
+2025-11-05 03:45:42,072 [INFO] Started monitoring @dfy
+2025-11-05 03:45:48,913 [INFO] [@dfy] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:45:48,926 [INFO] [@dfy] ✅ Success - Profile fetched
+2025-11-05 03:45:48,927 [INFO] [@dfy] Account recovered after 6.9s
+2025-11-05 03:48:04,754 [INFO] 💾 Saved 1 sessions
+2025-11-05 03:48:04,755 [INFO] ✅ Added new session (total: 1)
+2025-11-05 03:48:21,002 [INFO] [@wetkitycity] HTTP 404 via proxy (retry: 0)
+2025-11-05 03:48:21,002 [INFO] [@wetkitycity] Account not found / suspended (404)
+2025-11-05 03:48:21,624 [INFO] Started monitoring @wetkitycity
+2025-11-05 03:48:26,544 [INFO] [@wetkitycity] HTTP 404 via proxy (retry: 0)
+2025-11-05 03:48:26,544 [INFO] [@wetkitycity] Account not found / suspended (404)
+2025-11-05 03:48:26,545 [INFO] [@wetkitycity] Next check in 58 seconds
+2025-11-05 03:49:19,704 [INFO] [@wetkittycity] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:49:19,717 [INFO] [@wetkittycity] ✅ Success - Profile fetched
+2025-11-05 03:49:20,177 [INFO] Started monitoring @wetkittycity
+2025-11-05 03:49:25,443 [INFO] [@wetkittycity] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:49:25,450 [INFO] [@wetkittycity] ✅ Success - Profile fetched
+2025-11-05 03:49:25,450 [INFO] [@wetkittycity] Account recovered after 5.3s
+2025-11-05 03:50:13,612 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:50:13,613 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 03:50:13,613 [INFO] Started ban monitoring for @dinar
+2025-11-05 03:50:17,438 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:50:17,438 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 03:50:17,438 [WARNING] [@dinar] 🚫 200 but NO user data - Account BANNED
+2025-11-05 03:50:17,438 [INFO] [@dinar] 🚫 BAN DETECTED after 3.8s
+2025-11-05 03:51:49,140 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 03:51:49,141 [INFO] ✅ Loaded 1 sessions
+2025-11-05 03:51:49,142 [INFO] logging in using static token
+2025-11-05 03:51:50,802 [INFO] Shard ID None has connected to Gateway (Session ID: cdfb72efc4a6b85c98e9473c370bb5d8).
+2025-11-05 03:51:52,808 [INFO] Bot logged in as The Goat#3906
+2025-11-05 03:51:52,808 [INFO] Session-based mode: ENABLED
+2025-11-05 03:51:52,808 [INFO] Active sessions: 1
+2025-11-05 03:51:52,809 [INFO] Screenshot feature: ENABLED
+2025-11-05 03:51:52,809 [INFO] Check interval: 0-1 minutes
+2025-11-05 03:52:07,200 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:52:07,200 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 03:52:07,200 [INFO] Started ban monitoring for @dinar
+2025-11-05 03:52:10,564 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:52:10,564 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 03:52:10,564 [WARNING] [@dinar] 🚫 200 but NO user data - Account BANNED
+2025-11-05 03:52:10,564 [INFO] [@dinar] 🚫 BAN DETECTED after 3.4s
+2025-11-05 03:52:16,313 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:52:16,314 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 03:52:16,314 [INFO] Started ban monitoring for @meta
+2025-11-05 03:52:17,275 [INFO] Shutting down bot...
+2025-11-05 03:55:34,156 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 03:55:34,158 [INFO] ✅ Loaded 1 sessions
+2025-11-05 03:55:34,162 [INFO] logging in using static token
+2025-11-05 03:55:35,832 [INFO] Shard ID None has connected to Gateway (Session ID: 65e9c178f9c9bf317f0920599552e5e5).
+2025-11-05 03:55:37,839 [INFO] Bot logged in as The Goat#3906
+2025-11-05 03:55:37,839 [INFO] Session-based mode: ENABLED
+2025-11-05 03:55:37,840 [INFO] Active sessions: 1
+2025-11-05 03:55:37,840 [INFO] Screenshot feature: ENABLED
+2025-11-05 03:55:37,840 [INFO] Check interval: 0-1 minutes
+2025-11-05 03:56:01,217 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:56:01,217 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 03:56:01,218 [INFO] Started ban monitoring for @dinar
+2025-11-05 03:56:04,982 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:56:04,985 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 03:56:04,985 [WARNING] [@dinar] 🚫 200 but NO user data - Account BANNED
+2025-11-05 03:56:04,985 [INFO] [@dinar] 🚫 BAN DETECTED after 3.8s
+2025-11-05 03:56:08,880 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:56:08,883 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 03:56:08,884 [INFO] Started ban monitoring for @meta
+2025-11-05 03:56:13,772 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:56:13,775 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 03:56:13,775 [INFO] [@meta] Comparing: 'meta' vs 'meta'
+2025-11-05 03:56:13,775 [INFO] [@meta] ✅ Username MATCH - Active, continuing monitoring
+2025-11-05 03:56:13,775 [INFO] [@meta] Ban check - Next in 1 minutes
+2025-11-05 03:56:19,563 [INFO] [@onaliskuu] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:56:19,566 [INFO] [@onaliskuu] response received, but username mismatch - possibly banned
+2025-11-05 03:56:19,566 [INFO] Started ban monitoring for @onaliskuu
+2025-11-05 03:56:24,784 [INFO] [@onaliskuu] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:56:24,788 [INFO] [@onaliskuu] response received, but username mismatch - possibly banned
+2025-11-05 03:56:24,788 [WARNING] [@onaliskuu] 🚫 200 but NO user data - Account BANNED
+2025-11-05 03:56:24,788 [INFO] [@onaliskuu] 🚫 BAN DETECTED after 5.2s
+2025-11-05 03:57:04,566 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:57:04,641 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 03:57:05,241 [INFO] Started ban monitoring for @nasa
+2025-11-05 03:57:10,716 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:57:10,723 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 03:57:10,723 [INFO] [@nasa] Comparing: 'nasa' vs 'nasa'
+2025-11-05 03:57:10,723 [INFO] [@nasa] ✅ Username MATCH - Active, continuing monitoring
+2025-11-05 03:57:10,723 [INFO] [@nasa] Ban check - Next in 0 minutes
+2025-11-05 03:57:40,312 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 03:57:40,312 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 03:57:40,312 [INFO] [@meta] Comparing: 'meta' vs 'meta'
+2025-11-05 03:57:40,312 [INFO] [@meta] ✅ Username MATCH - Active, continuing monitoring
+2025-11-05 03:57:40,312 [INFO] [@meta] Ban check - Next in 1 minutes
+2025-11-05 03:58:15,955 [INFO] Shutting down bot...
+2025-11-05 04:00:12,429 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 04:00:12,430 [INFO] ✅ Loaded 1 sessions
+2025-11-05 04:00:12,431 [INFO] logging in using static token
+2025-11-05 04:00:14,282 [INFO] Shard ID None has connected to Gateway (Session ID: d9a0c761bdc9a2564e12a5928047f43d).
+2025-11-05 04:00:16,304 [INFO] Bot logged in as The Goat#3906
+2025-11-05 04:00:16,304 [INFO] Session-based mode: ENABLED
+2025-11-05 04:00:16,304 [INFO] Active sessions: 1
+2025-11-05 04:00:16,304 [INFO] Screenshot feature: ENABLED
+2025-11-05 04:00:16,304 [INFO] Check interval: 0-1 minutes
+2025-11-05 04:00:24,236 [INFO] Shutting down bot...

@@ -1,0 +1,10 @@
+2025-11-05 04:04:56,494 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 04:04:56,494 [INFO] ✅ Loaded 1 sessions
+2025-11-05 04:04:56,499 [INFO] logging in using static token
+2025-11-05 04:04:59,273 [INFO] Shard ID None has connected to Gateway (Session ID: d16f58ae3ea1c01c1ab2cbfd9a0cb54e).
+2025-11-05 04:05:01,277 [INFO] Bot logged in as The Goat#3906
+2025-11-05 04:05:01,277 [INFO] Session-based mode: ENABLED
+2025-11-05 04:05:01,277 [INFO] Active sessions: 1
+2025-11-05 04:05:01,277 [INFO] Screenshot feature: ENABLED
+2025-11-05 04:05:01,277 [INFO] Check interval: 0-1 minutes
+2025-11-05 04:05:35,926 [INFO] Shutting down bot...
