@@ -32,3 +32,630 @@
 2025-11-05 11:07:13,729 [INFO] [@wetkittycity] ✅ Success - Profile fetched
 2025-11-05 11:07:13,729 [INFO] [@wetkittycity] Account recovered after 4.0s
 2025-11-05 11:08:58,857 [INFO] Shutting down bot...
+2025-11-05 12:28:11,525 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:28:11,530 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:28:11,531 [INFO] logging in using static token
+2025-11-05 12:28:13,388 [INFO] Shard ID None has connected to Gateway (Session ID: 355a0ba19bedf10bf4ae7d4961319e69).
+2025-11-05 12:28:15,404 [INFO] Bot logged in as Survical Bot#0974
+2025-11-05 12:28:15,404 [INFO] Working directory: /root/MonitorBot/survical
+2025-11-05 12:28:15,405 [INFO] Session-based mode: ENABLED
+2025-11-05 12:28:15,405 [INFO] Active sessions: 1
+2025-11-05 12:28:15,405 [INFO] Screenshot feature: ENABLED
+2025-11-05 12:28:15,405 [INFO] Check interval: 0-1 minutes
+2025-11-05 12:28:37,170 [INFO] [@wetkittycity] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:28:37,173 [INFO] [@wetkittycity] ✅ Success - Profile fetched
+2025-11-05 12:28:37,615 [INFO] Started monitoring @wetkittycity
+2025-11-05 12:28:40,530 [INFO] [@wetkittycity] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:28:40,536 [INFO] [@wetkittycity] ✅ Success - Profile fetched
+2025-11-05 12:28:40,537 [INFO] [@wetkittycity] Account recovered after 2.9s
+2025-11-05 12:29:15,474 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:29:15,474 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:29:15,475 [INFO] Started monitoring @angeloo
+2025-11-05 12:29:21,040 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:29:21,040 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:29:21,040 [INFO] [@angeloo] Next check in 81 seconds
+2025-11-05 12:29:24,000 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:29:24,000 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:29:24,002 [INFO] Started monitoring @_yotv_
+2025-11-05 12:29:28,204 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:29:28,204 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:29:28,205 [INFO] [@_yotv_] Next check in 50 seconds
+2025-11-05 12:30:22,004 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:30:22,004 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:30:22,004 [INFO] [@_yotv_] Next check in 48 seconds
+2025-11-05 12:30:48,301 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:30:48,301 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:30:48,301 [INFO] [@angeloo] Next check in 61 seconds
+2025-11-05 12:31:15,035 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:31:15,035 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:31:15,036 [INFO] [@_yotv_] Next check in 43 seconds
+2025-11-05 12:31:53,588 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:31:53,589 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:31:53,589 [INFO] [@angeloo] Next check in 73 seconds
+2025-11-05 12:32:00,595 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:32:00,595 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:32:00,595 [INFO] [@_yotv_] Next check in 72 seconds
+2025-11-05 12:33:10,419 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:33:10,419 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:33:10,419 [INFO] [@angeloo] Next check in 88 seconds
+2025-11-05 12:33:17,937 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:33:17,937 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:33:17,937 [INFO] [@_yotv_] Next check in 57 seconds
+2025-11-05 12:34:20,645 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:34:20,645 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:34:20,645 [INFO] [@_yotv_] Next check in 99 seconds
+2025-11-05 12:34:43,005 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:34:43,005 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:34:43,005 [INFO] [@angeloo] Next check in 43 seconds
+2025-11-05 12:35:28,771 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:35:28,771 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:35:28,771 [INFO] [@angeloo] Next check in 328 seconds
+2025-11-05 12:36:04,605 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:36:04,605 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:36:04,605 [INFO] [@_yotv_] Next check in 460 seconds
+2025-11-05 12:38:27,283 [INFO] 💾 Saved 0 sessions
+2025-11-05 12:38:27,283 [INFO] 🗑️ Removed session (remaining: 0)
+2025-11-05 12:41:01,102 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:41:01,102 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:41:01,102 [INFO] [@angeloo] Next check in 308 seconds
+2025-11-05 12:43:48,214 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:43:48,214 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:43:48,214 [INFO] [@_yotv_] Next check in 456 seconds
+2025-11-05 12:44:54,790 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:44:54,993 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:44:55,481 [INFO] Started monitoring @meta
+2025-11-05 12:45:01,974 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:45:02,315 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:45:02,315 [INFO] [@meta] Account recovered after 6.8s
+2025-11-05 12:46:13,413 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:46:13,413 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:46:13,413 [INFO] [@angeloo] Next check in 391 seconds
+2025-11-05 12:51:29,165 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:51:29,166 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 12:51:29,166 [INFO] [@_yotv_] Next check in 424 seconds
+2025-11-05 12:52:51,939 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:52:51,940 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 12:52:51,940 [INFO] [@angeloo] Next check in 438 seconds
+2025-11-05 12:58:39,206 [INFO] [@_yotv_] HTTP 401 via proxy (retry: 0)
+2025-11-05 12:58:39,206 [WARNING] [@_yotv_] Auth error (401) - rotating session
+2025-11-05 12:58:39,206 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 13:00:15,693 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:00:15,694 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 13:00:15,694 [INFO] [@angeloo] Next check in 349 seconds
+2025-11-05 13:00:31,097 [INFO] Retry 1/3 for @_yotv_ after 79.5s delay
+2025-11-05 13:01:54,922 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 1)
+2025-11-05 13:01:54,922 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 13:01:54,922 [INFO] [@_yotv_] Next check in 431 seconds
+2025-11-05 13:06:09,484 [ERROR] [@angeloo] Request error: Cannot connect to host i.instagram.com:443 ssl:default [None]
+2025-11-05 13:06:09,485 [INFO] Retry 1/3 for @angeloo after 84.7s delay
+2025-11-05 13:07:40,349 [INFO] [@angeloo] HTTP 200 via proxy (retry: 1)
+2025-11-05 13:07:40,349 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 13:07:40,349 [INFO] [@angeloo] Next check in 521 seconds
+2025-11-05 13:09:09,869 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:09:09,869 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 13:09:09,869 [INFO] [@_yotv_] Next check in 550 seconds
+2025-11-05 13:16:25,714 [INFO] [@angeloo] HTTP 401 via proxy (retry: 0)
+2025-11-05 13:16:25,714 [WARNING] [@angeloo] Auth error (401) - rotating session
+2025-11-05 13:16:25,714 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 13:17:38,664 [INFO] Retry 1/3 for @angeloo after 72.7s delay
+2025-11-05 13:18:26,264 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:18:26,264 [INFO] [@_yotv_] response received, but username mismatch - possibly banned
+2025-11-05 13:18:26,264 [INFO] [@_yotv_] Next check in 298 seconds
+2025-11-05 13:18:54,929 [INFO] [@angeloo] HTTP 200 via proxy (retry: 1)
+2025-11-05 13:18:54,929 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 13:18:54,929 [INFO] [@angeloo] Next check in 167 seconds
+2025-11-05 13:21:47,061 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:21:47,062 [INFO] [@angeloo] response received, but username mismatch - possibly banned
+2025-11-05 13:21:47,062 [INFO] [@angeloo] Next check in 298 seconds
+2025-11-05 13:23:32,572 [INFO] [@_yotv_] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:23:32,777 [INFO] [@_yotv_] ✅ Success - Profile fetched
+2025-11-05 13:23:32,777 [INFO] [@_yotv_] Account recovered after 54m 8.8s
+2025-11-05 13:26:50,326 [INFO] [@angeloo] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:26:50,656 [INFO] [@angeloo] ✅ Success - Profile fetched
+2025-11-05 13:26:50,656 [INFO] [@angeloo] Account recovered after 57m 35.2s
+2025-11-05 13:44:33,606 [INFO] Shard ID None has successfully RESUMED session 355a0ba19bedf10bf4ae7d4961319e69.
+2025-11-05 13:51:49,978 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:51:49,978 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 13:51:49,978 [INFO] Started monitoring @erewor_by_priye
+2025-11-05 13:52:01,899 [ERROR] [@thegadgetmastergh] Request error: 522, message='status code 522', url='http://user-spkgcgn8xf-sessionduration-1:S0wgp2z~Ycx33cgfSB@gate.decodo.com:10001'
+2025-11-05 13:52:01,899 [INFO] Retry 1/3 for @thegadgetmastergh after 80.3s delay
+2025-11-05 13:52:23,559 [ERROR] [@erewor_by_priye] Timeout error
+2025-11-05 13:52:23,560 [INFO] Retry 1/3 for @erewor_by_priye after 75.4s delay
+2025-11-05 13:53:27,874 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 1)
+2025-11-05 13:53:27,874 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 13:53:27,875 [INFO] Started monitoring @thegadgetmastergh
+2025-11-05 13:53:30,960 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:53:30,960 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 13:53:30,960 [INFO] [@thegadgetmastergh] Next check in 265 seconds
+2025-11-05 13:53:43,167 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 1)
+2025-11-05 13:53:43,168 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 13:53:43,168 [INFO] [@erewor_by_priye] Next check in 254 seconds
+2025-11-05 13:58:00,070 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:58:00,070 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 13:58:00,070 [INFO] [@thegadgetmastergh] Next check in 235 seconds
+2025-11-05 13:58:00,724 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:58:00,724 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 13:58:00,724 [INFO] [@erewor_by_priye] Next check in 283 seconds
+2025-11-05 14:01:59,804 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:01:59,804 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:01:59,804 [INFO] [@thegadgetmastergh] Next check in 293 seconds
+2025-11-05 14:02:48,383 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:02:48,383 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:02:48,383 [INFO] [@erewor_by_priye] Next check in 167 seconds
+2025-11-05 14:05:41,313 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:05:41,313 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:05:41,313 [INFO] [@erewor_by_priye] Next check in 171 seconds
+2025-11-05 14:06:58,220 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:06:58,220 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:06:58,220 [INFO] [@thegadgetmastergh] Next check in 123 seconds
+2025-11-05 14:08:38,562 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:08:38,563 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:08:38,563 [INFO] [@erewor_by_priye] Next check in 135 seconds
+2025-11-05 14:09:05,441 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:09:05,441 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:09:05,441 [INFO] [@thegadgetmastergh] Next check in 269 seconds
+2025-11-05 14:10:58,784 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:10:58,784 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:10:58,784 [INFO] [@erewor_by_priye] Next check in 143 seconds
+2025-11-05 14:13:26,898 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:13:26,899 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:13:26,899 [INFO] [@erewor_by_priye] Next check in 216 seconds
+2025-11-05 14:13:37,650 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:13:37,650 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:13:37,650 [INFO] [@thegadgetmastergh] Next check in 269 seconds
+2025-11-05 14:13:57,325 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:13:57,326 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-05 14:13:57,845 [INFO] Started monitoring @tanmyz
+2025-11-05 14:14:01,911 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:14:01,911 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-05 14:14:01,911 [INFO] [@tanmyz] Account recovered after 4.1s
+2025-11-05 14:17:07,308 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:17:07,308 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:17:07,308 [INFO] [@erewor_by_priye] Next check in 294 seconds
+2025-11-05 14:18:11,831 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:18:11,831 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:18:11,831 [INFO] [@thegadgetmastergh] Next check in 280 seconds
+2025-11-05 14:22:04,653 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:22:04,653 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:22:04,653 [INFO] [@erewor_by_priye] Next check in 167 seconds
+2025-11-05 14:22:56,209 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:22:56,209 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:22:56,209 [INFO] [@thegadgetmastergh] Next check in 122 seconds
+2025-11-05 14:24:57,187 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:24:57,188 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:24:57,188 [INFO] [@erewor_by_priye] Next check in 226 seconds
+2025-11-05 14:25:02,262 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:25:02,263 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:25:02,263 [INFO] [@thegadgetmastergh] Next check in 165 seconds
+2025-11-05 14:27:52,009 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:27:52,009 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:27:52,009 [INFO] [@thegadgetmastergh] Next check in 126 seconds
+2025-11-05 14:28:46,261 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:28:46,262 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:28:46,262 [INFO] [@erewor_by_priye] Next check in 191 seconds
+2025-11-05 14:30:03,152 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:30:03,154 [INFO] [@thegadgetmastergh] response received, but username mismatch - possibly banned
+2025-11-05 14:30:03,154 [INFO] [@thegadgetmastergh] Next check in 269 seconds
+2025-11-05 14:31:23,017 [INFO] Shard ID None has successfully RESUMED session 355a0ba19bedf10bf4ae7d4961319e69.
+2025-11-05 14:32:00,872 [INFO] [@erewor_by_priye] HTTP 401 via proxy (retry: 0)
+2025-11-05 14:32:00,872 [WARNING] [@erewor_by_priye] Auth error (401) - rotating session
+2025-11-05 14:32:00,873 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 14:33:42,310 [INFO] Retry 1/3 for @erewor_by_priye after 83.1s delay
+2025-11-05 14:34:36,480 [INFO] [@thegadgetmastergh] HTTP 401 via proxy (retry: 0)
+2025-11-05 14:34:36,480 [WARNING] [@thegadgetmastergh] Auth error (401) - rotating session
+2025-11-05 14:34:36,481 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 14:35:10,490 [INFO] [@erewor_by_priye] HTTP 401 via proxy (retry: 1)
+2025-11-05 14:35:10,490 [WARNING] [@erewor_by_priye] Auth error (401) - rotating session
+2025-11-05 14:35:10,490 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 14:36:26,942 [INFO] Retry 1/3 for @thegadgetmastergh after 73.5s delay
+2025-11-05 14:36:29,029 [INFO] Retry 2/3 for @erewor_by_priye after 139.5s delay
+2025-11-05 14:37:47,092 [INFO] [@thegadgetmastergh] HTTP 200 via proxy (retry: 1)
+2025-11-05 14:37:47,222 [INFO] [@thegadgetmastergh] ✅ Success - Profile fetched
+2025-11-05 14:37:47,222 [INFO] [@thegadgetmastergh] Account recovered after 44m 19.3s
+2025-11-05 14:38:52,229 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 2)
+2025-11-05 14:38:52,229 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:38:52,229 [INFO] [@erewor_by_priye] Next check in 181 seconds
+2025-11-05 14:41:57,190 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:41:57,190 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:41:57,190 [INFO] [@erewor_by_priye] Next check in 199 seconds
+2025-11-05 14:45:20,886 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:45:20,886 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:45:20,887 [INFO] [@erewor_by_priye] Next check in 207 seconds
+2025-11-05 14:47:26,232 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:47:26,232 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 14:47:26,654 [INFO] Started monitoring @rxmoneybagz
+2025-11-05 14:47:29,801 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:47:29,802 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 14:47:29,802 [INFO] [@rxmoneybagz] Next check in 237 seconds
+2025-11-05 14:48:54,624 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:48:54,624 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:48:54,624 [INFO] [@erewor_by_priye] Next check in 277 seconds
+2025-11-05 14:51:29,706 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:51:29,706 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 14:51:29,706 [INFO] [@rxmoneybagz] Next check in 195 seconds
+2025-11-05 14:53:36,106 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:53:36,108 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:53:36,108 [INFO] [@erewor_by_priye] Next check in 261 seconds
+2025-11-05 14:54:50,184 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:54:50,184 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 14:54:50,184 [INFO] [@rxmoneybagz] Next check in 275 seconds
+2025-11-05 14:58:02,235 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:58:02,235 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 14:58:02,235 [INFO] [@erewor_by_priye] Next check in 208 seconds
+2025-11-05 14:59:29,337 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:59:29,338 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 14:59:29,338 [INFO] [@rxmoneybagz] Next check in 208 seconds
+2025-11-05 15:01:36,281 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:01:36,282 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 15:01:36,282 [INFO] [@erewor_by_priye] Next check in 168 seconds
+2025-11-05 15:03:01,253 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:03:01,253 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 15:03:01,253 [INFO] [@rxmoneybagz] Next check in 274 seconds
+2025-11-05 15:04:30,617 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:04:30,617 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 15:04:30,617 [INFO] [@erewor_by_priye] Next check in 211 seconds
+2025-11-05 15:07:38,401 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:07:38,401 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 15:07:38,401 [INFO] [@rxmoneybagz] Next check in 254 seconds
+2025-11-05 15:08:05,571 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:08:05,572 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 15:08:05,572 [INFO] [@erewor_by_priye] Next check in 266 seconds
+2025-11-05 15:11:58,737 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:11:58,737 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 15:11:58,737 [INFO] [@rxmoneybagz] Next check in 214 seconds
+2025-11-05 15:12:35,656 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:12:35,656 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 15:12:35,656 [INFO] [@erewor_by_priye] Next check in 290 seconds
+2025-11-05 15:15:39,031 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:15:39,031 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 15:15:39,031 [INFO] [@rxmoneybagz] Next check in 152 seconds
+2025-11-05 15:17:29,101 [INFO] [@erewor_by_priye] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:17:29,102 [INFO] [@erewor_by_priye] response received, but username mismatch - possibly banned
+2025-11-05 15:17:29,102 [INFO] [@erewor_by_priye] Next check in 282 seconds
+2025-11-05 15:18:15,435 [INFO] [@rxmoneybagz] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:18:15,435 [INFO] [@rxmoneybagz] response received, but username mismatch - possibly banned
+2025-11-05 15:18:15,435 [INFO] [@rxmoneybagz] Next check in 300 seconds
+2025-11-05 15:19:17,005 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:19:17,005 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:19:17,405 [INFO] Started monitoring @adiankonina
+2025-11-05 15:19:22,514 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:19:22,515 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:19:22,515 [INFO] [@adiankonina] Next check in 265 seconds
+2025-11-05 15:20:22,256 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:20:22,256 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:20:22,634 [INFO] Started monitoring @adiankonina
+2025-11-05 15:20:27,734 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:20:27,734 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:20:27,734 [INFO] [@adiankonina] Next check in 201 seconds
+2025-11-05 15:23:54,741 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:23:54,741 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:23:54,741 [INFO] [@adiankonina] Next check in 244 seconds
+2025-11-05 15:28:03,400 [INFO] [@adiankonina] HTTP 401 via proxy (retry: 0)
+2025-11-05 15:28:03,400 [WARNING] [@adiankonina] Auth error (401) - rotating session
+2025-11-05 15:28:03,400 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 15:29:53,053 [INFO] Retry 1/3 for @adiankonina after 84.0s delay
+2025-11-05 15:31:21,618 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 1)
+2025-11-05 15:31:21,618 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:31:21,619 [INFO] [@adiankonina] Next check in 206 seconds
+2025-11-05 15:34:53,755 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:34:53,755 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:34:53,755 [INFO] [@adiankonina] Next check in 290 seconds
+2025-11-05 15:37:22,941 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:37:22,941 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 15:37:23,367 [INFO] Started monitoring @gatogogodancer1
+2025-11-05 15:37:26,444 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:37:26,444 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 15:37:26,445 [INFO] [@gatogogodancer1] Next check in 141 seconds
+2025-11-05 15:39:48,970 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:39:48,970 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:39:48,970 [INFO] [@adiankonina] Next check in 294 seconds
+2025-11-05 15:39:51,130 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:39:51,133 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 15:39:51,133 [INFO] [@gatogogodancer1] Next check in 298 seconds
+2025-11-05 15:44:46,706 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:44:46,707 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:44:46,707 [INFO] [@adiankonina] Next check in 128 seconds
+2025-11-05 15:44:53,424 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:44:53,424 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 15:44:53,424 [INFO] [@gatogogodancer1] Next check in 270 seconds
+2025-11-05 15:46:59,138 [INFO] [@adiankonina] HTTP 401 via proxy (retry: 0)
+2025-11-05 15:46:59,138 [WARNING] [@adiankonina] Auth error (401) - rotating session
+2025-11-05 15:46:59,138 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 15:48:35,042 [INFO] Retry 1/3 for @adiankonina after 74.1s delay
+2025-11-05 15:49:27,863 [INFO] [@gatogogodancer1] HTTP 401 via proxy (retry: 0)
+2025-11-05 15:49:27,863 [WARNING] [@gatogogodancer1] Auth error (401) - rotating session
+2025-11-05 15:49:27,863 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 15:49:54,632 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 1)
+2025-11-05 15:49:54,632 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:49:54,632 [INFO] [@adiankonina] Next check in 214 seconds
+2025-11-05 15:50:38,519 [INFO] Retry 1/3 for @gatogogodancer1 after 87.7s delay
+2025-11-05 15:52:12,311 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 1)
+2025-11-05 15:52:12,311 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 15:52:12,311 [INFO] [@gatogogodancer1] Next check in 200 seconds
+2025-11-05 15:53:34,642 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:53:34,642 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:53:34,642 [INFO] [@adiankonina] Next check in 152 seconds
+2025-11-05 15:55:38,932 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:55:38,933 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 15:55:38,933 [INFO] [@gatogogodancer1] Next check in 248 seconds
+2025-11-05 15:56:10,510 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:56:10,510 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 15:56:10,510 [INFO] [@adiankonina] Next check in 251 seconds
+2025-11-05 15:59:50,721 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:59:50,721 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 15:59:50,721 [INFO] [@gatogogodancer1] Next check in 135 seconds
+2025-11-05 16:00:25,857 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:00:25,857 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:00:25,857 [INFO] [@adiankonina] Next check in 231 seconds
+2025-11-05 16:02:10,265 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:02:10,265 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:02:10,265 [INFO] [@gatogogodancer1] Next check in 169 seconds
+2025-11-05 16:04:21,318 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:04:21,318 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:04:21,318 [INFO] [@adiankonina] Next check in 261 seconds
+2025-11-05 16:05:02,258 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:05:02,258 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:05:02,259 [INFO] [@gatogogodancer1] Next check in 257 seconds
+2025-11-05 16:08:47,964 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:08:47,965 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:08:47,965 [INFO] [@adiankonina] Next check in 216 seconds
+2025-11-05 16:09:23,367 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:09:23,367 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:09:23,367 [INFO] [@gatogogodancer1] Next check in 273 seconds
+2025-11-05 16:12:29,160 [INFO] [@adiankonina] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:12:29,160 [WARNING] [@adiankonina] Auth error (401) - rotating session
+2025-11-05 16:12:29,160 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:13:40,139 [INFO] Retry 1/3 for @adiankonina after 75.1s delay
+2025-11-05 16:14:01,692 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:14:01,692 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:14:01,693 [INFO] [@gatogogodancer1] Next check in 183 seconds
+2025-11-05 16:14:58,840 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:14:58,841 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:14:58,841 [INFO] [@adiankonina] Next check in 239 seconds
+2025-11-05 16:17:08,968 [INFO] [@gatogogodancer1] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:17:08,968 [WARNING] [@gatogogodancer1] Auth error (401) - rotating session
+2025-11-05 16:17:08,968 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:18:50,456 [INFO] Retry 1/3 for @gatogogodancer1 after 87.1s delay
+2025-11-05 16:19:02,161 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:19:02,161 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:19:02,161 [INFO] [@adiankonina] Next check in 124 seconds
+2025-11-05 16:20:21,424 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:20:21,424 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:20:21,424 [INFO] [@gatogogodancer1] Next check in 120 seconds
+2025-11-05 16:21:11,024 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:21:11,025 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:21:11,025 [INFO] [@adiankonina] Next check in 261 seconds
+2025-11-05 16:22:25,262 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:22:25,262 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:22:25,262 [INFO] [@gatogogodancer1] Next check in 132 seconds
+2025-11-05 16:24:41,090 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:24:41,090 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:24:41,090 [INFO] [@gatogogodancer1] Next check in 170 seconds
+2025-11-05 16:25:37,690 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:25:37,690 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:25:37,690 [INFO] [@adiankonina] Next check in 227 seconds
+2025-11-05 16:27:36,339 [INFO] [@gatogogodancer1] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:27:36,339 [WARNING] [@gatogogodancer1] Auth error (401) - rotating session
+2025-11-05 16:27:36,339 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:28:52,515 [INFO] Retry 1/3 for @gatogogodancer1 after 82.1s delay
+2025-11-05 16:29:31,109 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:29:31,110 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:29:31,110 [INFO] [@adiankonina] Next check in 201 seconds
+2025-11-05 16:30:18,170 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:30:18,170 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:30:18,170 [INFO] [@gatogogodancer1] Next check in 173 seconds
+2025-11-05 16:32:55,367 [INFO] [@adiankonina] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:32:55,367 [WARNING] [@adiankonina] Auth error (401) - rotating session
+2025-11-05 16:32:55,367 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:33:17,187 [INFO] [@gatogogodancer1] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:33:17,187 [WARNING] [@gatogogodancer1] Auth error (401) - rotating session
+2025-11-05 16:33:17,187 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:34:09,407 [INFO] Retry 1/3 for @adiankonina after 88.9s delay
+2025-11-05 16:35:00,937 [INFO] Retry 1/3 for @gatogogodancer1 after 84.8s delay
+2025-11-05 16:35:43,412 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:35:43,413 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:35:43,413 [INFO] [@adiankonina] Next check in 146 seconds
+2025-11-05 16:36:31,347 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:36:31,347 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:36:31,347 [INFO] [@gatogogodancer1] Next check in 210 seconds
+2025-11-05 16:38:13,781 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:38:13,781 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:38:13,781 [INFO] [@adiankonina] Next check in 236 seconds
+2025-11-05 16:40:05,643 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:40:05,643 [INFO] [@gatogogodancer1] response received, but username mismatch - possibly banned
+2025-11-05 16:40:05,643 [INFO] [@gatogogodancer1] Next check in 186 seconds
+2025-11-05 16:42:08,634 [INFO] 💾 Saved 1 sessions
+2025-11-05 16:42:08,634 [INFO] ✅ Added new session (total: 1)
+2025-11-05 16:42:14,293 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:42:14,293 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:42:14,294 [INFO] [@adiankonina] Next check in 198 seconds
+2025-11-05 16:43:17,182 [INFO] [@gatogogodancer1] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:43:17,182 [INFO] [@gatogogodancer1] ✅ Success - Profile fetched
+2025-11-05 16:43:17,182 [INFO] [@gatogogodancer1] Account recovered after 1h 5m 53.8s
+2025-11-05 16:45:36,184 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:45:36,184 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:45:36,184 [INFO] [@adiankonina] Next check in 247 seconds
+2025-11-05 16:49:55,229 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:49:55,230 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:49:55,230 [INFO] [@adiankonina] Next check in 169 seconds
+2025-11-05 16:52:48,285 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:52:48,285 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:52:48,285 [INFO] [@adiankonina] Next check in 220 seconds
+2025-11-05 16:56:33,466 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:56:33,466 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:56:33,466 [INFO] [@adiankonina] Next check in 136 seconds
+2025-11-05 16:58:54,541 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:58:54,541 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 16:58:54,541 [INFO] [@adiankonina] Next check in 250 seconds
+2025-11-05 17:03:08,788 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:03:08,788 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:03:08,788 [INFO] [@adiankonina] Next check in 209 seconds
+2025-11-05 17:06:44,369 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:06:44,369 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:06:44,369 [INFO] [@adiankonina] Next check in 219 seconds
+2025-11-05 17:10:30,418 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:10:30,418 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:10:30,418 [INFO] [@adiankonina] Next check in 298 seconds
+2025-11-05 17:15:35,911 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:15:35,911 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:15:35,912 [INFO] [@adiankonina] Next check in 211 seconds
+2025-11-05 17:19:12,497 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:19:12,498 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:19:12,498 [INFO] [@adiankonina] Next check in 161 seconds
+2025-11-05 17:21:57,307 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:21:57,307 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:21:57,307 [INFO] [@adiankonina] Next check in 299 seconds
+2025-11-05 17:27:00,145 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:27:00,145 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:27:00,145 [INFO] [@adiankonina] Next check in 248 seconds
+2025-11-05 17:31:14,333 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:31:14,334 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:31:14,334 [INFO] [@adiankonina] Next check in 270 seconds
+2025-11-05 17:35:50,196 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:35:50,196 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:35:50,196 [INFO] [@adiankonina] Next check in 238 seconds
+2025-11-05 17:39:53,390 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:39:53,390 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:39:53,390 [INFO] [@adiankonina] Next check in 252 seconds
+2025-11-05 17:44:10,712 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:44:10,712 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:44:10,712 [INFO] [@adiankonina] Next check in 188 seconds
+2025-11-05 17:47:23,103 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:47:23,103 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:47:23,103 [INFO] [@adiankonina] Next check in 233 seconds
+2025-11-05 17:51:20,307 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:51:20,307 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:51:20,307 [INFO] [@adiankonina] Next check in 271 seconds
+2025-11-05 17:53:11,799 [INFO] Shard ID None has successfully RESUMED session 355a0ba19bedf10bf4ae7d4961319e69.
+2025-11-05 17:55:56,476 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:55:56,477 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 17:55:56,477 [INFO] [@adiankonina] Next check in 271 seconds
+2025-11-05 18:00:32,778 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:00:32,778 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:00:32,779 [INFO] [@adiankonina] Next check in 280 seconds
+2025-11-05 18:05:17,125 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:05:17,125 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:05:17,125 [INFO] [@adiankonina] Next check in 291 seconds
+2025-11-05 18:10:11,581 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:10:11,581 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:10:11,581 [INFO] [@adiankonina] Next check in 147 seconds
+2025-11-05 18:12:43,301 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:12:43,302 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:12:43,302 [INFO] [@adiankonina] Next check in 208 seconds
+2025-11-05 18:16:17,525 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:16:17,527 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:16:17,527 [INFO] [@adiankonina] Next check in 186 seconds
+2025-11-05 18:19:28,587 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:19:28,587 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:19:28,587 [INFO] [@adiankonina] Next check in 164 seconds
+2025-11-05 18:22:17,631 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:22:17,631 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:22:17,631 [INFO] [@adiankonina] Next check in 286 seconds
+2025-11-05 18:27:08,548 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:27:08,549 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:27:08,549 [INFO] [@adiankonina] Next check in 191 seconds
+2025-11-05 18:30:23,225 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:30:23,225 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:30:23,225 [INFO] [@adiankonina] Next check in 299 seconds
+2025-11-05 18:35:25,829 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:35:25,830 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:35:25,830 [INFO] [@adiankonina] Next check in 141 seconds
+2025-11-05 18:37:52,999 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:37:52,999 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:37:52,999 [INFO] [@adiankonina] Next check in 260 seconds
+2025-11-05 18:42:18,979 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:42:18,979 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:42:18,979 [INFO] [@adiankonina] Next check in 231 seconds
+2025-11-05 18:46:16,194 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:46:16,194 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:46:16,194 [INFO] [@adiankonina] Next check in 172 seconds
+2025-11-05 18:49:14,206 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:49:14,206 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:49:14,207 [INFO] [@adiankonina] Next check in 174 seconds
+2025-11-05 18:52:14,878 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:52:14,878 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:52:14,878 [INFO] [@adiankonina] Next check in 191 seconds
+2025-11-05 18:55:30,122 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:55:30,123 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:55:30,123 [INFO] [@adiankonina] Next check in 130 seconds
+2025-11-05 18:57:45,041 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:57:45,041 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 18:57:45,041 [INFO] [@adiankonina] Next check in 271 seconds
+2025-11-05 19:02:20,226 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:02:20,226 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:02:20,226 [INFO] [@adiankonina] Next check in 210 seconds
+2025-11-05 19:05:55,750 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:05:55,750 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:05:55,750 [INFO] [@adiankonina] Next check in 247 seconds
+2025-11-05 19:10:08,660 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:10:08,660 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:10:08,660 [INFO] [@adiankonina] Next check in 143 seconds
+2025-11-05 19:12:38,211 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:12:38,212 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:12:38,212 [INFO] [@adiankonina] Next check in 131 seconds
+2025-11-05 19:14:53,414 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:14:53,414 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:14:53,415 [INFO] [@adiankonina] Next check in 292 seconds
+2025-11-05 19:19:49,177 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:19:49,177 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:19:49,177 [INFO] [@adiankonina] Next check in 182 seconds
+2025-11-05 19:22:56,359 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:22:56,359 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:22:56,359 [INFO] [@adiankonina] Next check in 242 seconds
+2025-11-05 19:27:04,391 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:27:04,391 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:27:04,391 [INFO] [@adiankonina] Next check in 195 seconds
+2025-11-05 19:30:24,758 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:30:24,759 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:30:24,759 [INFO] [@adiankonina] Next check in 229 seconds
+2025-11-05 19:34:19,410 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:34:19,410 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:34:19,410 [INFO] [@adiankonina] Next check in 164 seconds
+2025-11-05 19:37:08,654 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:37:08,655 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:37:08,655 [INFO] [@adiankonina] Next check in 284 seconds
+2025-11-05 19:41:58,815 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:41:58,815 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:41:58,815 [INFO] [@adiankonina] Next check in 197 seconds
+2025-11-05 19:45:18,783 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:45:18,783 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:45:18,783 [INFO] [@adiankonina] Next check in 212 seconds
+2025-11-05 19:48:54,454 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:48:54,454 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:48:54,454 [INFO] [@adiankonina] Next check in 208 seconds
+2025-11-05 19:52:28,705 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:52:28,705 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:52:28,705 [INFO] [@adiankonina] Next check in 267 seconds
+2025-11-05 19:56:59,164 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:56:59,164 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:56:59,164 [INFO] [@adiankonina] Next check in 150 seconds
+2025-11-05 19:59:33,985 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:59:33,985 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 19:59:33,985 [INFO] [@adiankonina] Next check in 297 seconds
+2025-11-05 20:04:34,579 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:04:34,579 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 20:04:34,579 [INFO] [@adiankonina] Next check in 122 seconds
+2025-11-05 20:06:41,566 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:06:41,566 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 20:06:41,566 [INFO] [@adiankonina] Next check in 237 seconds
+2025-11-05 20:10:42,917 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:10:42,917 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 20:10:42,917 [INFO] [@adiankonina] Next check in 280 seconds
+2025-11-05 20:15:26,446 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:15:26,446 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 20:15:26,446 [INFO] [@adiankonina] Next check in 223 seconds
+2025-11-05 20:15:33,074 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 20:15:33,075 [INFO] ✅ Loaded 1 sessions
+2025-11-05 20:15:33,075 [INFO] logging in using static token
+2025-11-05 20:15:34,971 [INFO] Shard ID None has connected to Gateway (Session ID: a79a5ef379430c26aa178bd4e4029099).
+2025-11-05 20:15:37,193 [INFO] Bot logged in as Survical Bot#0974
+2025-11-05 20:15:37,193 [INFO] Working directory: /root/MonitorBot/survical
+2025-11-05 20:15:37,193 [INFO] Session-based mode: ENABLED
+2025-11-05 20:15:37,193 [INFO] Active sessions: 1
+2025-11-05 20:15:37,193 [INFO] Screenshot feature: ENABLED
+2025-11-05 20:15:37,194 [INFO] Check interval: 2-5 minutes
+2025-11-05 20:15:37,194 [INFO] Resuming monitoring for @adiankonina
+2025-11-05 20:15:37,194 [INFO] Started monitoring @adiankonina
+2025-11-05 20:15:43,349 [INFO] [@adiankonina] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:15:43,349 [INFO] [@adiankonina] response received, but username mismatch - possibly banned
+2025-11-05 20:15:43,349 [INFO] [@adiankonina] Next check in 234 seconds

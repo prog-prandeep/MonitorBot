@@ -1,12 +1,23 @@
-"""Main bot entry point with session management and ban monitoring"""
-import sys
-import os
-# Add parent directory to Python path
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+"""Main bot entry point - Fixed for systemd services"""
 import logging
 import discord
 import asyncio
 import sys
+import os
+
+# Get the directory where this main.py is located (client folder)
+CLIENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Get the parent directory (Bot folder with modules)
+PARENT_DIR = os.path.dirname(CLIENT_DIR)
+
+# Add parent directory to Python path so imports work
+sys.path.insert(0, PARENT_DIR)
+
+# Change working directory to client folder (for config.json, logs, etc.)
+os.chdir(CLIENT_DIR)
+
+# Now import modules (after fixing the path)
 from config_manager import ConfigManager
 from data_manager import DataManager
 from ban_data_manager import BanDataManager
@@ -19,7 +30,7 @@ from command_handler import CommandHandler
 
 # Constants
 MAX_MONITOR = 15
-LOG_FILE = "bot.log"
+LOG_FILE = "bot.log"  # Will be created in client folder
 
 # Setup logging
 logging.basicConfig(
@@ -37,11 +48,11 @@ intents = discord.Intents.default()
 intents.message_content = True
 client = discord.Client(intents=intents)
 
-# Initialize components
-config = ConfigManager(os.path.join(os.path.dirname(__file__), "config.json"))
-data_manager = DataManager()
-ban_data_manager = BanDataManager()
-session_manager = SessionManager()
+# Initialize components (all files will be in client folder now)
+config = ConfigManager("config.json")  # client1/config.json
+data_manager = DataManager("monitoring.json")  # client1/monitoring.json
+ban_data_manager = BanDataManager("ban_monitor.json")  # client1/ban_monitor.json
+session_manager = SessionManager("session.json")  # client1/session.json
 instagram_api = InstagramAPI(session_manager, proxy_url=config.get_proxy_url())
 screenshot_gen = ScreenshotGenerator()
 monitor_service = MonitorService(instagram_api, data_manager, screenshot_gen, client, config)
@@ -61,6 +72,7 @@ command_handler = CommandHandler(
 async def on_ready():
     """Bot startup event"""
     logger.info(f"Bot logged in as {client.user}")
+    logger.info(f"Working directory: {os.getcwd()}")
     logger.info(f"Session-based mode: ENABLED")
     logger.info(f"Active sessions: {session_manager.get_session_count()}")
     logger.info(f"Screenshot feature: {'ENABLED' if config.generate_screenshots else 'DISABLED'}")

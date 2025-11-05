@@ -1,0 +1,47 @@
+2025-11-05 12:28:16,896 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:28:16,897 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:28:16,898 [INFO] logging in using static token
+2025-11-05 12:28:18,472 [INFO] Shard ID None has connected to Gateway (Session ID: 776650eb9629987c1390ae6128ca3f7b).
+2025-11-05 12:28:20,477 [INFO] Bot logged in as Rengen Monitor#4934
+2025-11-05 12:28:20,477 [INFO] Working directory: /root/MonitorBot/rengen
+2025-11-05 12:28:20,477 [INFO] Session-based mode: ENABLED
+2025-11-05 12:28:20,478 [INFO] Active sessions: 1
+2025-11-05 12:28:20,478 [INFO] Screenshot feature: ENABLED
+2025-11-05 12:28:20,478 [INFO] Check interval: 0-1 minutes
+2025-11-05 12:38:36,921 [INFO] 💾 Saved 0 sessions
+2025-11-05 12:38:36,921 [INFO] 🗑️ Removed session (remaining: 0)
+2025-11-05 12:44:56,040 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:44:56,250 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:44:56,853 [INFO] Started monitoring @meta
+2025-11-05 12:45:02,060 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:45:02,157 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:45:02,157 [INFO] [@meta] Account recovered after 5.3s
+2025-11-05 13:09:08,233 [INFO] Shard ID None has successfully RESUMED session 776650eb9629987c1390ae6128ca3f7b.
+2025-11-05 14:13:57,581 [INFO] [@tanmyz] HTTP 401 via proxy (retry: 0)
+2025-11-05 14:13:57,581 [WARNING] [@tanmyz] Auth error (401) - rotating session
+2025-11-05 14:13:57,581 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 14:15:56,039 [INFO] Retry 1/3 for @tanmyz after 77.7s delay
+2025-11-05 14:17:19,592 [INFO] [@tanmyz] HTTP 401 via proxy (retry: 1)
+2025-11-05 14:17:19,592 [WARNING] [@tanmyz] Auth error (401) - rotating session
+2025-11-05 14:17:19,593 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 14:18:47,628 [INFO] Retry 2/3 for @tanmyz after 138.3s delay
+2025-11-05 14:21:11,134 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 2)
+2025-11-05 14:21:11,134 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-05 14:21:11,550 [INFO] Started monitoring @tanmyz
+2025-11-05 14:21:15,268 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:21:15,271 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-05 14:21:15,271 [INFO] [@tanmyz] Account recovered after 3.7s
+2025-11-05 15:06:16,622 [INFO] Shard ID None has successfully RESUMED session 776650eb9629987c1390ae6128ca3f7b.
+2025-11-05 15:59:34,897 [INFO] Shard ID None has successfully RESUMED session 776650eb9629987c1390ae6128ca3f7b.
+2025-11-05 19:44:15,607 [INFO] Shard ID None has successfully RESUMED session 776650eb9629987c1390ae6128ca3f7b.
+2025-11-05 20:15:20,317 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 20:15:20,317 [WARNING] ⚠️ No sessions in file, using fallback
+2025-11-05 20:15:20,318 [INFO] logging in using static token
+2025-11-05 20:15:22,420 [INFO] Shard ID None has connected to Gateway (Session ID: 1e7892269bdb1bd5ff0908bf16611c08).
+2025-11-05 20:15:24,427 [INFO] Bot logged in as Rengen Monitor#4934
+2025-11-05 20:15:24,427 [INFO] Working directory: /root/MonitorBot/rengen
+2025-11-05 20:15:24,427 [INFO] Session-based mode: ENABLED
+2025-11-05 20:15:24,428 [INFO] Active sessions: 0
+2025-11-05 20:15:24,428 [INFO] Screenshot feature: ENABLED
+2025-11-05 20:15:24,428 [INFO] Check interval: 2-5 minutes
+2025-11-05 20:15:24,428 [WARNING] ⚠️ WARNING: No sessions loaded, using fallback session

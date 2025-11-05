@@ -1,0 +1,869 @@
+2025-11-05 12:10:59,578 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:10:59,580 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:10:59,582 [INFO] logging in using static token
+2025-11-05 12:11:01,217 [ERROR] Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-11-05 12:11:01,217 [INFO] Shutting down bot...
+2025-11-05 12:11:11,749 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:11:11,750 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:11:11,751 [INFO] logging in using static token
+2025-11-05 12:11:13,632 [ERROR] Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-11-05 12:11:13,632 [INFO] Shutting down bot...
+2025-11-05 12:11:23,862 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:11:23,862 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:11:23,863 [INFO] logging in using static token
+2025-11-05 12:11:25,514 [ERROR] Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-11-05 12:11:25,514 [INFO] Shutting down bot...
+2025-11-05 12:11:35,860 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:11:35,861 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:11:35,862 [INFO] logging in using static token
+2025-11-05 12:11:37,568 [ERROR] Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-11-05 12:11:37,569 [INFO] Shutting down bot...
+2025-11-05 12:11:47,865 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:11:47,866 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:11:47,867 [INFO] logging in using static token
+2025-11-05 12:11:49,652 [ERROR] Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-11-05 12:11:49,652 [INFO] Shutting down bot...
+2025-11-05 12:12:00,112 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:12:00,114 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:12:00,114 [INFO] logging in using static token
+2025-11-05 12:12:01,783 [ERROR] Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-11-05 12:12:01,784 [INFO] Shutting down bot...
+2025-11-05 12:12:12,113 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:12:12,114 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:12:12,115 [INFO] logging in using static token
+2025-11-05 12:12:13,774 [ERROR] Fatal error: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-11-05 12:12:13,774 [INFO] Shutting down bot...
+2025-11-05 12:12:24,108 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:12:24,110 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:12:24,110 [INFO] logging in using static token
+2025-11-05 12:12:25,718 [INFO] Shard ID None has connected to Gateway (Session ID: 9652737572f70d641531627405cb1fd4).
+2025-11-05 12:12:27,727 [INFO] Bot logged in as MonitorKing Unbans#8138
+2025-11-05 12:12:27,727 [INFO] Working directory: /root/MonitorBot/king
+2025-11-05 12:12:27,727 [INFO] Session-based mode: ENABLED
+2025-11-05 12:12:27,727 [INFO] Active sessions: 1
+2025-11-05 12:12:27,728 [INFO] Screenshot feature: ENABLED
+2025-11-05 12:12:27,728 [INFO] Check interval: 0-1 minutes
+2025-11-05 12:12:36,094 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 12:12:36,096 [INFO] ✅ Loaded 1 sessions
+2025-11-05 12:12:36,096 [INFO] logging in using static token
+2025-11-05 12:12:37,781 [INFO] Shard ID None has connected to Gateway (Session ID: 696417cd5cbf2d714ecdfe32017c1979).
+2025-11-05 12:12:39,797 [INFO] Bot logged in as MonitorKing Unbans#8138
+2025-11-05 12:12:39,797 [INFO] Working directory: /root/MonitorBot/king
+2025-11-05 12:12:39,798 [INFO] Session-based mode: ENABLED
+2025-11-05 12:12:39,798 [INFO] Active sessions: 1
+2025-11-05 12:12:39,798 [INFO] Screenshot feature: ENABLED
+2025-11-05 12:12:39,798 [INFO] Check interval: 0-1 minutes
+2025-11-05 12:22:23,617 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:22:23,618 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:22:24,063 [INFO] Started monitoring @meta
+2025-11-05 12:22:26,970 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:22:26,977 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:22:26,977 [INFO] [@meta] Account recovered after 2.9s
+2025-11-05 12:39:04,223 [INFO] 💾 Saved 0 sessions
+2025-11-05 12:39:04,223 [INFO] 🗑️ Removed session (remaining: 0)
+2025-11-05 12:44:54,388 [INFO] [@meta] HTTP 401 via proxy (retry: 0)
+2025-11-05 12:44:54,388 [WARNING] [@meta] Auth error (401) - rotating session
+2025-11-05 12:44:54,388 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 12:46:07,239 [INFO] Retry 1/3 for @meta after 76.4s delay
+2025-11-05 12:47:30,560 [INFO] [@meta] HTTP 200 via proxy (retry: 1)
+2025-11-05 12:47:30,751 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:47:31,153 [INFO] Started monitoring @meta
+2025-11-05 12:47:36,360 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 12:47:36,678 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 12:47:36,678 [INFO] [@meta] Account recovered after 5.5s
+2025-11-05 13:03:12,486 [INFO] [@fal_rita] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:03:12,487 [INFO] [@fal_rita] response received, but username mismatch - possibly banned
+2025-11-05 13:03:12,907 [INFO] Started monitoring @fal_rita
+2025-11-05 13:03:18,099 [INFO] [@fal_rita] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:03:18,099 [INFO] [@fal_rita] response received, but username mismatch - possibly banned
+2025-11-05 13:03:18,099 [INFO] [@fal_rita] Next check in 421 seconds
+2025-11-05 13:10:25,955 [INFO] [@fal_rita] HTTP 200 via proxy (retry: 0)
+2025-11-05 13:10:26,332 [INFO] [@fal_rita] ✅ Success - Profile fetched
+2025-11-05 13:10:26,332 [INFO] [@fal_rita] Account recovered after 7m 13.4s
+2025-11-05 13:35:09,535 [INFO] Shard ID None has successfully RESUMED session 696417cd5cbf2d714ecdfe32017c1979.
+2025-11-05 14:13:57,577 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:13:57,972 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-05 14:13:58,403 [INFO] Started monitoring @tanmyz
+2025-11-05 14:14:03,693 [INFO] [@tanmyz] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:14:03,694 [INFO] [@tanmyz] ✅ Success - Profile fetched
+2025-11-05 14:14:03,694 [INFO] [@tanmyz] Account recovered after 5.3s
+2025-11-05 14:51:37,686 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 14:51:37,686 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 14:51:37,686 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 14:52:45,924 [INFO] Retry 1/3 for @il_lazza_ after 78.3s delay
+2025-11-05 14:54:10,606 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 14:54:10,606 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 14:54:11,050 [INFO] Started monitoring @il_lazza_
+2025-11-05 14:54:13,653 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:54:13,654 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 14:54:13,654 [INFO] [@il_lazza_] Next check in 234 seconds
+2025-11-05 14:58:14,835 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 14:58:14,835 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 14:58:14,835 [INFO] [@il_lazza_] Next check in 121 seconds
+2025-11-05 15:00:20,774 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 15:00:20,774 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 15:00:20,774 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 15:01:33,931 [INFO] Retry 1/3 for @il_lazza_ after 78.8s delay
+2025-11-05 15:02:57,495 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 15:02:57,496 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:02:57,496 [INFO] [@il_lazza_] Next check in 219 seconds
+2025-11-05 15:06:41,787 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:06:41,787 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:06:41,787 [INFO] [@il_lazza_] Next check in 151 seconds
+2025-11-05 15:09:17,355 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 15:09:17,355 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 15:09:17,355 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 15:11:13,866 [INFO] Retry 1/3 for @il_lazza_ after 85.1s delay
+2025-11-05 15:12:44,087 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 15:12:44,090 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:12:44,090 [INFO] [@il_lazza_] Next check in 165 seconds
+2025-11-05 15:15:33,189 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:15:33,189 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:15:33,189 [INFO] [@il_lazza_] Next check in 290 seconds
+2025-11-05 15:20:28,642 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:20:28,642 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:20:28,642 [INFO] [@il_lazza_] Next check in 250 seconds
+2025-11-05 15:24:32,788 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:24:32,789 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:24:38,273 [INFO] Started monitoring @kritikakhanduri__
+2025-11-05 15:24:41,904 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:24:41,904 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:24:41,904 [INFO] [@il_lazza_] Next check in 128 seconds
+2025-11-05 15:24:43,834 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:24:43,834 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:24:43,835 [INFO] [@kritikakhanduri__] Next check in 180 seconds
+2025-11-05 15:26:53,713 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:26:53,713 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:26:53,713 [INFO] [@il_lazza_] Next check in 265 seconds
+2025-11-05 15:27:47,555 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:27:47,555 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:27:47,555 [INFO] [@kritikakhanduri__] Next check in 158 seconds
+2025-11-05 15:30:30,304 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:30:30,304 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:30:30,304 [INFO] [@kritikakhanduri__] Next check in 191 seconds
+2025-11-05 15:31:22,365 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:31:22,365 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:31:22,365 [INFO] [@il_lazza_] Next check in 169 seconds
+2025-11-05 15:33:47,058 [INFO] [@kritikakhanduri__] HTTP 401 via proxy (retry: 0)
+2025-11-05 15:33:47,058 [WARNING] [@kritikakhanduri__] Auth error (401) - rotating session
+2025-11-05 15:33:47,058 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 15:34:15,585 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:34:15,585 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:34:15,585 [INFO] [@il_lazza_] Next check in 184 seconds
+2025-11-05 15:35:30,734 [INFO] Retry 1/3 for @kritikakhanduri__ after 81.8s delay
+2025-11-05 15:36:57,918 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 1)
+2025-11-05 15:36:57,918 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:36:57,918 [INFO] [@kritikakhanduri__] Next check in 247 seconds
+2025-11-05 15:37:23,558 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:37:23,558 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:37:23,558 [INFO] [@il_lazza_] Next check in 205 seconds
+2025-11-05 15:40:53,013 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:40:53,013 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:40:53,013 [INFO] [@il_lazza_] Next check in 260 seconds
+2025-11-05 15:41:09,584 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:41:09,584 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:41:09,584 [INFO] [@kritikakhanduri__] Next check in 157 seconds
+2025-11-05 15:42:17,322 [INFO] Shard ID None has successfully RESUMED session 696417cd5cbf2d714ecdfe32017c1979.
+2025-11-05 15:43:50,650 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:43:50,650 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:43:50,650 [INFO] [@kritikakhanduri__] Next check in 225 seconds
+2025-11-05 15:45:19,297 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:45:19,297 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:45:19,297 [INFO] [@il_lazza_] Next check in 209 seconds
+2025-11-05 15:47:39,949 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:47:39,950 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:47:39,950 [INFO] [@kritikakhanduri__] Next check in 129 seconds
+2025-11-05 15:48:52,668 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:48:52,668 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:48:52,669 [INFO] [@il_lazza_] Next check in 138 seconds
+2025-11-05 15:49:54,436 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:49:54,436 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:49:54,436 [INFO] [@kritikakhanduri__] Next check in 262 seconds
+2025-11-05 15:51:14,214 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:51:14,214 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:51:14,214 [INFO] [@il_lazza_] Next check in 295 seconds
+2025-11-05 15:54:22,896 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:54:22,896 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:54:22,897 [INFO] [@kritikakhanduri__] Next check in 265 seconds
+2025-11-05 15:56:13,722 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 15:56:13,722 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 15:56:13,722 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 15:57:45,584 [INFO] Retry 1/3 for @il_lazza_ after 80.5s delay
+2025-11-05 15:58:52,250 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 15:58:52,250 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 15:58:52,250 [INFO] [@kritikakhanduri__] Next check in 238 seconds
+2025-11-05 15:59:12,350 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 15:59:12,350 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 15:59:12,350 [INFO] [@il_lazza_] Next check in 292 seconds
+2025-11-05 16:02:56,440 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:02:56,440 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:02:56,440 [INFO] [@kritikakhanduri__] Next check in 141 seconds
+2025-11-05 16:04:09,507 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:04:09,508 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:04:09,508 [INFO] [@il_lazza_] Next check in 185 seconds
+2025-11-05 16:05:22,445 [INFO] [@kritikakhanduri__] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:05:22,445 [WARNING] [@kritikakhanduri__] Auth error (401) - rotating session
+2025-11-05 16:05:22,446 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:06:39,866 [INFO] Retry 1/3 for @kritikakhanduri__ after 75.2s delay
+2025-11-05 16:07:20,062 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:07:20,062 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:07:20,062 [INFO] [@il_lazza_] Next check in 178 seconds
+2025-11-05 16:07:59,972 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:07:59,973 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:07:59,973 [INFO] [@kritikakhanduri__] Next check in 241 seconds
+2025-11-05 16:10:22,812 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:10:22,813 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:10:22,813 [INFO] [@il_lazza_] Next check in 206 seconds
+2025-11-05 16:10:28,785 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:10:28,785 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:10:29,346 [INFO] Started monitoring @20shop_iran
+2025-11-05 16:10:32,566 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:10:32,566 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:10:32,566 [INFO] [@20shop_iran] Next check in 294 seconds
+2025-11-05 16:12:06,668 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:12:06,668 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:12:06,668 [INFO] [@kritikakhanduri__] Next check in 230 seconds
+2025-11-05 16:13:54,282 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:13:54,282 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 16:13:54,282 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:15:33,694 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:15:33,694 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:15:33,694 [INFO] [@20shop_iran] Next check in 217 seconds
+2025-11-05 16:15:51,104 [INFO] Retry 1/3 for @il_lazza_ after 89.2s delay
+2025-11-05 16:16:00,741 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:16:00,744 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:16:00,744 [INFO] [@kritikakhanduri__] Next check in 193 seconds
+2025-11-05 16:17:25,849 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:17:25,849 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:17:25,850 [INFO] [@il_lazza_] Next check in 178 seconds
+2025-11-05 16:19:17,211 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:19:17,211 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:19:17,211 [INFO] [@20shop_iran] Next check in 242 seconds
+2025-11-05 16:19:17,784 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:19:17,784 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:19:17,784 [INFO] [@kritikakhanduri__] Next check in 129 seconds
+2025-11-05 16:20:29,339 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:20:29,339 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:20:29,339 [INFO] [@il_lazza_] Next check in 202 seconds
+2025-11-05 16:21:31,807 [INFO] [@kritikakhanduri__] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:21:31,807 [WARNING] [@kritikakhanduri__] Auth error (401) - rotating session
+2025-11-05 16:21:31,807 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:23:15,014 [INFO] Retry 1/3 for @kritikakhanduri__ after 80.6s delay
+2025-11-05 16:23:24,192 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:23:24,193 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:23:24,193 [INFO] [@20shop_iran] Next check in 274 seconds
+2025-11-05 16:23:56,024 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:23:56,024 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:23:56,024 [INFO] [@il_lazza_] Next check in 126 seconds
+2025-11-05 16:24:39,863 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:24:39,864 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:24:39,864 [INFO] [@kritikakhanduri__] Next check in 200 seconds
+2025-11-05 16:26:07,823 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:26:07,823 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:26:07,823 [INFO] [@il_lazza_] Next check in 244 seconds
+2025-11-05 16:28:02,022 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:28:02,022 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:28:02,022 [INFO] [@20shop_iran] Next check in 209 seconds
+2025-11-05 16:28:02,529 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:28:02,529 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:28:02,529 [INFO] [@kritikakhanduri__] Next check in 282 seconds
+2025-11-05 16:30:16,761 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:30:16,761 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:30:16,761 [INFO] [@il_lazza_] Next check in 182 seconds
+2025-11-05 16:31:36,893 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:31:36,894 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:31:36,894 [INFO] [@20shop_iran] Next check in 162 seconds
+2025-11-05 16:32:49,444 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:32:49,444 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:32:49,444 [INFO] [@kritikakhanduri__] Next check in 236 seconds
+2025-11-05 16:33:23,910 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:33:23,911 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:33:23,911 [INFO] [@il_lazza_] Next check in 285 seconds
+2025-11-05 16:34:23,841 [INFO] [@20shop_iran] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:34:23,841 [WARNING] [@20shop_iran] Auth error (401) - rotating session
+2025-11-05 16:34:23,841 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:35:28,526 [INFO] Retry 1/3 for @20shop_iran after 74.3s delay
+2025-11-05 16:36:49,382 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:36:49,382 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:36:49,382 [INFO] [@20shop_iran] Next check in 270 seconds
+2025-11-05 16:36:50,546 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:36:50,546 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:36:50,546 [INFO] [@kritikakhanduri__] Next check in 238 seconds
+2025-11-05 16:38:13,733 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:38:13,733 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:38:13,733 [INFO] [@il_lazza_] Next check in 281 seconds
+2025-11-05 16:40:53,341 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:40:53,341 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:40:53,342 [INFO] [@kritikakhanduri__] Next check in 192 seconds
+2025-11-05 16:41:25,586 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:41:25,586 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:41:25,586 [INFO] [@20shop_iran] Next check in 228 seconds
+2025-11-05 16:42:58,893 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:42:58,893 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:42:58,893 [INFO] [@il_lazza_] Next check in 152 seconds
+2025-11-05 16:44:10,558 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:44:10,558 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:44:10,558 [INFO] [@kritikakhanduri__] Next check in 281 seconds
+2025-11-05 16:45:16,982 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:45:16,982 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:45:16,982 [INFO] [@20shop_iran] Next check in 294 seconds
+2025-11-05 16:45:36,717 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:45:36,717 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:45:36,717 [INFO] [@il_lazza_] Next check in 259 seconds
+2025-11-05 16:48:56,180 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:48:56,180 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:48:56,180 [INFO] [@kritikakhanduri__] Next check in 278 seconds
+2025-11-05 16:50:00,978 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:50:00,978 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:50:00,978 [INFO] [@il_lazza_] Next check in 296 seconds
+2025-11-05 16:50:14,263 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:50:14,263 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:50:14,263 [INFO] [@20shop_iran] Next check in 165 seconds
+2025-11-05 16:53:05,137 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:53:05,138 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:53:05,138 [INFO] [@20shop_iran] Next check in 261 seconds
+2025-11-05 16:53:38,268 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:53:38,268 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:53:38,268 [INFO] [@kritikakhanduri__] Next check in 165 seconds
+2025-11-05 16:55:01,223 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 16:55:01,223 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 16:55:01,223 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 16:56:28,866 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:56:28,867 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 16:56:28,867 [INFO] [@kritikakhanduri__] Next check in 292 seconds
+2025-11-05 16:56:45,248 [INFO] Retry 1/3 for @il_lazza_ after 84.7s delay
+2025-11-05 16:57:29,615 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 16:57:29,616 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 16:57:29,616 [INFO] [@20shop_iran] Next check in 269 seconds
+2025-11-05 16:58:13,427 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 16:58:13,427 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 16:58:13,427 [INFO] [@il_lazza_] Next check in 241 seconds
+2025-11-05 17:01:26,199 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:01:26,199 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:01:26,199 [INFO] [@kritikakhanduri__] Next check in 148 seconds
+2025-11-05 17:02:02,217 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:02:02,218 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:02:02,218 [INFO] [@20shop_iran] Next check in 240 seconds
+2025-11-05 17:02:17,365 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:02:17,365 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:02:17,365 [INFO] [@il_lazza_] Next check in 173 seconds
+2025-11-05 17:03:57,434 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:03:57,434 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:03:57,435 [INFO] [@kritikakhanduri__] Next check in 296 seconds
+2025-11-05 17:05:14,435 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:05:14,435 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:05:14,435 [INFO] [@il_lazza_] Next check in 165 seconds
+2025-11-05 17:06:06,918 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:06:06,918 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:06:06,918 [INFO] [@20shop_iran] Next check in 157 seconds
+2025-11-05 17:08:05,396 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 17:08:05,396 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 17:08:05,396 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 17:08:48,348 [INFO] [@20shop_iran] HTTP 401 via proxy (retry: 0)
+2025-11-05 17:08:48,348 [WARNING] [@20shop_iran] Auth error (401) - rotating session
+2025-11-05 17:08:48,348 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 17:09:22,892 [INFO] Retry 1/3 for @il_lazza_ after 85.4s delay
+2025-11-05 17:09:28,553 [ERROR] [@kritikakhanduri__] Timeout error
+2025-11-05 17:09:28,553 [INFO] Retry 1/3 for @kritikakhanduri__ after 81.0s delay
+2025-11-05 17:10:21,595 [INFO] Retry 1/3 for @20shop_iran after 76.8s delay
+2025-11-05 17:10:53,195 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 17:10:53,195 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:10:53,196 [INFO] [@il_lazza_] Next check in 225 seconds
+2025-11-05 17:10:54,138 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 1)
+2025-11-05 17:10:54,138 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:10:54,138 [INFO] [@kritikakhanduri__] Next check in 297 seconds
+2025-11-05 17:11:44,897 [INFO] [@20shop_iran] HTTP 401 via proxy (retry: 1)
+2025-11-05 17:11:44,897 [WARNING] [@20shop_iran] Auth error (401) - rotating session
+2025-11-05 17:11:44,897 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 17:13:07,817 [INFO] Retry 2/3 for @20shop_iran after 134.1s delay
+2025-11-05 17:14:44,060 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:14:44,060 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:14:44,060 [INFO] [@il_lazza_] Next check in 280 seconds
+2025-11-05 17:15:28,574 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 2)
+2025-11-05 17:15:28,574 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:15:28,574 [INFO] [@20shop_iran] Next check in 200 seconds
+2025-11-05 17:15:56,585 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:15:56,585 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:15:56,585 [INFO] [@kritikakhanduri__] Next check in 283 seconds
+2025-11-05 17:18:54,703 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:18:54,703 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:18:54,703 [INFO] [@20shop_iran] Next check in 299 seconds
+2025-11-05 17:19:29,876 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:19:29,876 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:19:29,876 [INFO] [@il_lazza_] Next check in 242 seconds
+2025-11-05 17:20:45,591 [INFO] [@kritikakhanduri__] HTTP 401 via proxy (retry: 0)
+2025-11-05 17:20:45,591 [WARNING] [@kritikakhanduri__] Auth error (401) - rotating session
+2025-11-05 17:20:45,591 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 17:22:30,866 [INFO] Retry 1/3 for @kritikakhanduri__ after 71.2s delay
+2025-11-05 17:23:37,346 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:23:37,346 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:23:37,346 [INFO] [@il_lazza_] Next check in 199 seconds
+2025-11-05 17:23:45,451 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 1)
+2025-11-05 17:23:45,451 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:23:45,451 [INFO] [@kritikakhanduri__] Next check in 137 seconds
+2025-11-05 17:23:56,562 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:23:56,562 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:23:56,562 [INFO] [@20shop_iran] Next check in 287 seconds
+2025-11-05 17:26:06,186 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:26:06,187 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:26:06,187 [INFO] [@kritikakhanduri__] Next check in 294 seconds
+2025-11-05 17:27:00,608 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:27:00,609 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:27:00,609 [INFO] [@il_lazza_] Next check in 132 seconds
+2025-11-05 17:28:47,189 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:28:47,189 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:28:47,189 [INFO] [@20shop_iran] Next check in 144 seconds
+2025-11-05 17:29:17,208 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:29:17,209 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:29:17,209 [INFO] [@il_lazza_] Next check in 251 seconds
+2025-11-05 17:31:05,518 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:31:05,518 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:31:05,518 [INFO] [@kritikakhanduri__] Next check in 150 seconds
+2025-11-05 17:31:14,765 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:31:14,769 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:31:14,769 [INFO] [@20shop_iran] Next check in 148 seconds
+2025-11-05 17:33:33,006 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:33:33,006 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:33:33,006 [INFO] [@il_lazza_] Next check in 238 seconds
+2025-11-05 17:33:40,718 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:33:40,718 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:33:40,718 [INFO] [@kritikakhanduri__] Next check in 179 seconds
+2025-11-05 17:33:46,423 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:33:46,423 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:33:46,423 [INFO] [@20shop_iran] Next check in 260 seconds
+2025-11-05 17:36:44,530 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:36:44,530 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:36:44,530 [INFO] [@kritikakhanduri__] Next check in 262 seconds
+2025-11-05 17:37:37,337 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 17:37:37,337 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 17:37:37,337 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 17:38:11,150 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:38:11,150 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:38:11,150 [INFO] [@20shop_iran] Next check in 287 seconds
+2025-11-05 17:38:46,774 [INFO] Retry 1/3 for @il_lazza_ after 83.1s delay
+2025-11-05 17:40:18,237 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 17:40:18,237 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:40:18,237 [INFO] [@il_lazza_] Next check in 224 seconds
+2025-11-05 17:41:11,444 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:41:11,444 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:41:11,444 [INFO] [@kritikakhanduri__] Next check in 214 seconds
+2025-11-05 17:43:03,923 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:43:03,923 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:43:03,923 [INFO] [@20shop_iran] Next check in 253 seconds
+2025-11-05 17:44:08,185 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:44:08,185 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:44:08,185 [INFO] [@il_lazza_] Next check in 297 seconds
+2025-11-05 17:44:50,491 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:44:50,491 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:44:50,491 [INFO] [@kritikakhanduri__] Next check in 199 seconds
+2025-11-05 17:46:26,405 [INFO] Shard ID None has successfully RESUMED session 696417cd5cbf2d714ecdfe32017c1979.
+2025-11-05 17:47:21,538 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:47:21,538 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:47:21,538 [INFO] [@20shop_iran] Next check in 282 seconds
+2025-11-05 17:48:14,688 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:48:14,688 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:48:14,688 [INFO] [@kritikakhanduri__] Next check in 181 seconds
+2025-11-05 17:49:09,484 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:49:09,484 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:49:09,484 [INFO] [@il_lazza_] Next check in 155 seconds
+2025-11-05 17:51:19,300 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:51:19,300 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:51:19,300 [INFO] [@kritikakhanduri__] Next check in 191 seconds
+2025-11-05 17:51:49,135 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:51:49,135 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:51:49,135 [INFO] [@il_lazza_] Next check in 145 seconds
+2025-11-05 17:52:07,299 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:52:07,299 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:52:07,300 [INFO] [@20shop_iran] Next check in 175 seconds
+2025-11-05 17:54:17,815 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:54:17,815 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:54:17,815 [INFO] [@il_lazza_] Next check in 134 seconds
+2025-11-05 17:54:36,900 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:54:36,900 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:54:36,900 [INFO] [@kritikakhanduri__] Next check in 210 seconds
+2025-11-05 17:55:08,006 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:55:08,006 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:55:08,006 [INFO] [@20shop_iran] Next check in 251 seconds
+2025-11-05 17:56:37,254 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:56:37,254 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 17:56:37,254 [INFO] [@il_lazza_] Next check in 184 seconds
+2025-11-05 17:58:09,847 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:58:09,847 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 17:58:09,847 [INFO] [@kritikakhanduri__] Next check in 238 seconds
+2025-11-05 17:59:22,966 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 17:59:22,966 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 17:59:22,966 [INFO] [@20shop_iran] Next check in 280 seconds
+2025-11-05 17:59:44,207 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 17:59:44,207 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 17:59:44,207 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 18:01:16,596 [INFO] Retry 1/3 for @il_lazza_ after 71.6s delay
+2025-11-05 18:02:13,567 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:02:13,567 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:02:13,567 [INFO] [@kritikakhanduri__] Next check in 150 seconds
+2025-11-05 18:02:34,245 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 18:02:34,246 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:02:34,246 [INFO] [@il_lazza_] Next check in 264 seconds
+2025-11-05 18:04:06,062 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:04:06,062 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:04:06,062 [INFO] [@20shop_iran] Next check in 126 seconds
+2025-11-05 18:04:49,619 [INFO] [@kritikakhanduri__] HTTP 401 via proxy (retry: 0)
+2025-11-05 18:04:49,619 [WARNING] [@kritikakhanduri__] Auth error (401) - rotating session
+2025-11-05 18:04:49,619 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 18:06:09,487 [INFO] Retry 1/3 for @kritikakhanduri__ after 72.7s delay
+2025-11-05 18:06:18,722 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:06:18,722 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:06:18,723 [INFO] [@20shop_iran] Next check in 205 seconds
+2025-11-05 18:07:03,913 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:07:03,913 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:07:03,913 [INFO] [@il_lazza_] Next check in 238 seconds
+2025-11-05 18:07:25,983 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 1)
+2025-11-05 18:07:25,984 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:07:25,984 [INFO] [@kritikakhanduri__] Next check in 209 seconds
+2025-11-05 18:09:47,544 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:09:47,545 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:09:47,545 [INFO] [@20shop_iran] Next check in 141 seconds
+2025-11-05 18:10:59,709 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:10:59,709 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:10:59,709 [INFO] [@kritikakhanduri__] Next check in 250 seconds
+2025-11-05 18:11:04,330 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:11:04,330 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:11:04,331 [INFO] [@il_lazza_] Next check in 234 seconds
+2025-11-05 18:12:14,982 [INFO] [@20shop_iran] HTTP 401 via proxy (retry: 0)
+2025-11-05 18:12:14,982 [WARNING] [@20shop_iran] Auth error (401) - rotating session
+2025-11-05 18:12:14,982 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 18:13:26,453 [INFO] Retry 1/3 for @20shop_iran after 70.2s delay
+2025-11-05 18:14:43,173 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 1)
+2025-11-05 18:14:43,174 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:14:43,174 [INFO] [@20shop_iran] Next check in 216 seconds
+2025-11-05 18:15:03,081 [INFO] [@il_lazza_] HTTP 401 via proxy (retry: 0)
+2025-11-05 18:15:03,082 [WARNING] [@il_lazza_] Auth error (401) - rotating session
+2025-11-05 18:15:03,082 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 18:15:14,677 [INFO] [@kritikakhanduri__] HTTP 401 via proxy (retry: 0)
+2025-11-05 18:15:14,677 [WARNING] [@kritikakhanduri__] Auth error (401) - rotating session
+2025-11-05 18:15:14,677 [WARNING] ⚠️ No sessions available, using fallback
+2025-11-05 18:16:11,378 [INFO] Retry 1/3 for @il_lazza_ after 81.3s delay
+2025-11-05 18:16:57,764 [INFO] Retry 1/3 for @kritikakhanduri__ after 88.8s delay
+2025-11-05 18:17:37,188 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 1)
+2025-11-05 18:17:37,188 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:17:37,188 [INFO] [@il_lazza_] Next check in 233 seconds
+2025-11-05 18:18:23,177 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:18:23,177 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:18:23,177 [INFO] [@20shop_iran] Next check in 230 seconds
+2025-11-05 18:18:30,785 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 1)
+2025-11-05 18:18:30,785 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:18:30,785 [INFO] [@kritikakhanduri__] Next check in 240 seconds
+2025-11-05 18:21:34,673 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:21:34,673 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:21:34,673 [INFO] [@il_lazza_] Next check in 284 seconds
+2025-11-05 18:22:17,015 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:22:17,015 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:22:17,016 [INFO] [@20shop_iran] Next check in 276 seconds
+2025-11-05 18:22:34,340 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:22:34,341 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:22:34,341 [INFO] [@kritikakhanduri__] Next check in 259 seconds
+2025-11-05 18:26:23,887 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:26:23,887 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:26:23,887 [INFO] [@il_lazza_] Next check in 215 seconds
+2025-11-05 18:26:58,586 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:26:58,587 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:26:58,587 [INFO] [@20shop_iran] Next check in 266 seconds
+2025-11-05 18:26:58,857 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:26:58,858 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:26:58,858 [INFO] [@kritikakhanduri__] Next check in 148 seconds
+2025-11-05 18:29:30,165 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:29:30,165 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:29:30,165 [INFO] [@kritikakhanduri__] Next check in 123 seconds
+2025-11-05 18:30:04,954 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:30:04,954 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:30:04,954 [INFO] [@il_lazza_] Next check in 246 seconds
+2025-11-05 18:31:31,083 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:31:31,083 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:31:31,083 [INFO] [@20shop_iran] Next check in 189 seconds
+2025-11-05 18:31:37,225 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:31:37,225 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:31:37,225 [INFO] [@kritikakhanduri__] Next check in 190 seconds
+2025-11-05 18:33:59,491 [INFO] 💾 Saved 1 sessions
+2025-11-05 18:33:59,491 [INFO] ✅ Added new session (total: 1)
+2025-11-05 18:34:16,693 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:34:16,693 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:34:16,693 [INFO] [@il_lazza_] Next check in 187 seconds
+2025-11-05 18:34:44,810 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:34:44,810 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:34:44,810 [INFO] [@20shop_iran] Next check in 128 seconds
+2025-11-05 18:34:51,390 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:34:51,390 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:34:51,390 [INFO] [@kritikakhanduri__] Next check in 129 seconds
+2025-11-05 18:37:00,528 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:37:00,529 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:37:00,529 [INFO] [@20shop_iran] Next check in 260 seconds
+2025-11-05 18:37:03,748 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:37:03,748 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:37:03,748 [INFO] [@kritikakhanduri__] Next check in 207 seconds
+2025-11-05 18:37:29,538 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:37:29,539 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:37:29,539 [INFO] [@il_lazza_] Next check in 297 seconds
+2025-11-05 18:40:35,657 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:40:35,658 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:40:35,658 [INFO] [@kritikakhanduri__] Next check in 269 seconds
+2025-11-05 18:41:26,718 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:41:26,719 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:41:26,719 [INFO] [@20shop_iran] Next check in 205 seconds
+2025-11-05 18:42:32,367 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:42:32,367 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:42:32,367 [INFO] [@il_lazza_] Next check in 242 seconds
+2025-11-05 18:44:57,288 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:44:57,288 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:44:57,288 [INFO] [@20shop_iran] Next check in 137 seconds
+2025-11-05 18:45:08,304 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:45:08,304 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:45:08,304 [INFO] [@kritikakhanduri__] Next check in 231 seconds
+2025-11-05 18:46:37,729 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:46:37,730 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:46:37,730 [INFO] [@il_lazza_] Next check in 279 seconds
+2025-11-05 18:47:20,408 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:47:20,408 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:47:20,408 [INFO] [@20shop_iran] Next check in 222 seconds
+2025-11-05 18:49:05,266 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:49:05,266 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:49:05,267 [INFO] [@kritikakhanduri__] Next check in 277 seconds
+2025-11-05 18:51:09,185 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:51:09,185 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:51:09,185 [INFO] [@20shop_iran] Next check in 170 seconds
+2025-11-05 18:51:21,686 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:51:21,686 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:51:21,686 [INFO] [@il_lazza_] Next check in 173 seconds
+2025-11-05 18:53:47,889 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:53:47,889 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:53:47,889 [INFO] [@kritikakhanduri__] Next check in 249 seconds
+2025-11-05 18:54:04,114 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:54:04,114 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:54:04,114 [INFO] [@20shop_iran] Next check in 198 seconds
+2025-11-05 18:54:20,800 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:54:20,800 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:54:20,800 [INFO] [@il_lazza_] Next check in 240 seconds
+2025-11-05 18:57:27,992 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:57:27,992 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:57:27,992 [INFO] [@20shop_iran] Next check in 128 seconds
+2025-11-05 18:58:00,451 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:58:00,451 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 18:58:00,451 [INFO] [@kritikakhanduri__] Next check in 249 seconds
+2025-11-05 18:58:25,112 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:58:25,113 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 18:58:25,113 [INFO] [@il_lazza_] Next check in 160 seconds
+2025-11-05 18:59:41,504 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 18:59:41,504 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 18:59:41,504 [INFO] [@20shop_iran] Next check in 280 seconds
+2025-11-05 19:01:08,233 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:01:08,234 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:01:08,234 [INFO] [@il_lazza_] Next check in 152 seconds
+2025-11-05 19:02:14,143 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:02:14,143 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:02:14,144 [INFO] [@kritikakhanduri__] Next check in 288 seconds
+2025-11-05 19:03:45,523 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:03:45,523 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:03:45,523 [INFO] [@il_lazza_] Next check in 171 seconds
+2025-11-05 19:04:25,666 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:04:25,666 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:04:25,666 [INFO] [@20shop_iran] Next check in 244 seconds
+2025-11-05 19:06:41,093 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:06:41,094 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:06:41,094 [INFO] [@il_lazza_] Next check in 257 seconds
+2025-11-05 19:07:08,032 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:07:08,032 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:07:08,032 [INFO] [@kritikakhanduri__] Next check in 193 seconds
+2025-11-05 19:08:33,597 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:08:33,597 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:08:33,597 [INFO] [@20shop_iran] Next check in 165 seconds
+2025-11-05 19:10:25,767 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:10:25,767 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:10:25,768 [INFO] [@kritikakhanduri__] Next check in 224 seconds
+2025-11-05 19:11:04,581 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:11:04,582 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:11:04,582 [INFO] [@il_lazza_] Next check in 258 seconds
+2025-11-05 19:11:21,686 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:11:21,686 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:11:21,686 [INFO] [@20shop_iran] Next check in 181 seconds
+2025-11-05 19:14:14,625 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:14:14,625 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:14:14,625 [INFO] [@kritikakhanduri__] Next check in 268 seconds
+2025-11-05 19:14:27,550 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:14:27,552 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:14:27,552 [INFO] [@20shop_iran] Next check in 291 seconds
+2025-11-05 19:15:26,468 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:15:26,469 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:15:26,469 [INFO] [@il_lazza_] Next check in 144 seconds
+2025-11-05 19:17:56,292 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:17:56,296 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:17:56,296 [INFO] [@il_lazza_] Next check in 123 seconds
+2025-11-05 19:18:49,860 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:18:49,860 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:18:49,860 [INFO] [@kritikakhanduri__] Next check in 284 seconds
+2025-11-05 19:19:23,503 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:19:23,503 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:19:23,503 [INFO] [@20shop_iran] Next check in 126 seconds
+2025-11-05 19:20:05,716 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:20:05,716 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:20:05,717 [INFO] [@il_lazza_] Next check in 126 seconds
+2025-11-05 19:21:33,261 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:21:33,261 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:21:33,262 [INFO] [@20shop_iran] Next check in 196 seconds
+2025-11-05 19:22:15,761 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:22:15,761 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:22:15,761 [INFO] [@il_lazza_] Next check in 264 seconds
+2025-11-05 19:23:40,402 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:23:40,402 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:23:40,402 [INFO] [@kritikakhanduri__] Next check in 264 seconds
+2025-11-05 19:24:54,773 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:24:54,773 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:24:54,773 [INFO] [@20shop_iran] Next check in 240 seconds
+2025-11-05 19:26:45,268 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:26:45,268 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:26:45,269 [INFO] [@il_lazza_] Next check in 230 seconds
+2025-11-05 19:28:09,264 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:28:09,264 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:28:09,264 [INFO] [@kritikakhanduri__] Next check in 143 seconds
+2025-11-05 19:28:58,627 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:28:58,627 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:28:58,627 [INFO] [@20shop_iran] Next check in 253 seconds
+2025-11-05 19:30:36,000 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:30:36,000 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:30:36,000 [INFO] [@kritikakhanduri__] Next check in 258 seconds
+2025-11-05 19:30:40,049 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:30:40,050 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:30:40,050 [INFO] [@il_lazza_] Next check in 192 seconds
+2025-11-05 19:33:15,332 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:33:15,332 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:33:15,332 [INFO] [@20shop_iran] Next check in 224 seconds
+2025-11-05 19:33:57,994 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:33:57,994 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:33:57,994 [INFO] [@il_lazza_] Next check in 279 seconds
+2025-11-05 19:34:58,868 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:34:58,868 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:34:58,868 [INFO] [@kritikakhanduri__] Next check in 258 seconds
+2025-11-05 19:37:03,700 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:37:03,701 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:37:03,701 [INFO] [@20shop_iran] Next check in 188 seconds
+2025-11-05 19:38:41,836 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:38:41,836 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:38:41,836 [INFO] [@il_lazza_] Next check in 190 seconds
+2025-11-05 19:39:21,185 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:39:21,185 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:39:21,185 [INFO] [@kritikakhanduri__] Next check in 191 seconds
+2025-11-05 19:40:17,184 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:40:17,184 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:40:17,185 [INFO] [@20shop_iran] Next check in 141 seconds
+2025-11-05 19:41:57,397 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:41:57,397 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:41:57,397 [INFO] [@il_lazza_] Next check in 236 seconds
+2025-11-05 19:42:36,495 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:42:36,495 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:42:36,495 [INFO] [@kritikakhanduri__] Next check in 246 seconds
+2025-11-05 19:42:41,374 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:42:41,374 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:42:41,375 [INFO] [@20shop_iran] Next check in 227 seconds
+2025-11-05 19:45:57,740 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:45:57,740 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:45:57,740 [INFO] [@il_lazza_] Next check in 214 seconds
+2025-11-05 19:46:33,723 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:46:33,723 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:46:33,723 [INFO] [@20shop_iran] Next check in 184 seconds
+2025-11-05 19:46:47,184 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:46:47,184 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:46:47,184 [INFO] [@kritikakhanduri__] Next check in 244 seconds
+2025-11-05 19:49:37,796 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:49:37,796 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:49:37,796 [INFO] [@il_lazza_] Next check in 255 seconds
+2025-11-05 19:49:40,749 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:49:40,749 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:49:40,749 [INFO] [@20shop_iran] Next check in 220 seconds
+2025-11-05 19:50:55,472 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:50:55,473 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:50:55,473 [INFO] [@kritikakhanduri__] Next check in 191 seconds
+2025-11-05 19:53:24,779 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:53:24,779 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:53:24,780 [INFO] [@20shop_iran] Next check in 207 seconds
+2025-11-05 19:53:59,175 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:53:59,175 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:53:59,175 [INFO] [@il_lazza_] Next check in 254 seconds
+2025-11-05 19:54:10,309 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:54:10,309 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:54:10,309 [INFO] [@kritikakhanduri__] Next check in 123 seconds
+2025-11-05 19:56:19,189 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:56:19,190 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:56:19,190 [INFO] [@kritikakhanduri__] Next check in 127 seconds
+2025-11-05 19:56:57,902 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:56:57,902 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 19:56:57,902 [INFO] [@20shop_iran] Next check in 186 seconds
+2025-11-05 19:58:18,394 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:58:18,394 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 19:58:18,394 [INFO] [@il_lazza_] Next check in 284 seconds
+2025-11-05 19:58:30,337 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 19:58:30,337 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 19:58:30,337 [INFO] [@kritikakhanduri__] Next check in 121 seconds
+2025-11-05 20:00:08,584 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:00:08,585 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 20:00:08,585 [INFO] [@20shop_iran] Next check in 187 seconds
+2025-11-05 20:00:35,867 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:00:35,868 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 20:00:35,868 [INFO] [@kritikakhanduri__] Next check in 260 seconds
+2025-11-05 20:03:07,249 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:03:07,250 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 20:03:07,250 [INFO] [@il_lazza_] Next check in 133 seconds
+2025-11-05 20:03:19,433 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:03:19,434 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 20:03:19,434 [INFO] [@20shop_iran] Next check in 196 seconds
+2025-11-05 20:05:02,131 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:05:02,131 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 20:05:02,132 [INFO] [@kritikakhanduri__] Next check in 279 seconds
+2025-11-05 20:05:26,016 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:05:26,016 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 20:05:26,016 [INFO] [@il_lazza_] Next check in 149 seconds
+2025-11-05 20:06:40,942 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:06:40,943 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 20:06:40,943 [INFO] [@20shop_iran] Next check in 264 seconds
+2025-11-05 20:08:01,017 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:08:01,017 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 20:08:01,017 [INFO] [@il_lazza_] Next check in 228 seconds
+2025-11-05 20:09:46,676 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:09:46,676 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 20:09:46,676 [INFO] [@kritikakhanduri__] Next check in 167 seconds
+2025-11-05 20:11:09,298 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:11:09,298 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 20:11:09,298 [INFO] [@20shop_iran] Next check in 205 seconds
+2025-11-05 20:11:53,580 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:11:53,580 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 20:11:53,580 [INFO] [@il_lazza_] Next check in 183 seconds
+2025-11-05 20:12:38,343 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:12:38,343 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 20:12:38,343 [INFO] [@kritikakhanduri__] Next check in 243 seconds
+2025-11-05 20:14:39,065 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:14:39,066 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 20:14:39,066 [INFO] [@20shop_iran] Next check in 123 seconds
+2025-11-05 20:14:59,770 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 20:14:59,771 [INFO] ✅ Loaded 1 sessions
+2025-11-05 20:14:59,772 [INFO] logging in using static token
+2025-11-05 20:15:01,365 [INFO] Shard ID None has connected to Gateway (Session ID: 0ba88ab76d95d0d8e104acb2c6526316).
+2025-11-05 20:15:03,371 [INFO] Bot logged in as MonitorKing Unbans#8138
+2025-11-05 20:15:03,371 [INFO] Working directory: /root/MonitorBot/king
+2025-11-05 20:15:03,371 [INFO] Session-based mode: ENABLED
+2025-11-05 20:15:03,371 [INFO] Active sessions: 1
+2025-11-05 20:15:03,372 [INFO] Screenshot feature: ENABLED
+2025-11-05 20:15:03,372 [INFO] Check interval: 2-5 minutes
+2025-11-05 20:15:03,372 [INFO] Resuming monitoring for @il_lazza_
+2025-11-05 20:15:03,372 [INFO] Resuming monitoring for @kritikakhanduri__
+2025-11-05 20:15:03,372 [INFO] Resuming monitoring for @20shop_iran
+2025-11-05 20:15:03,372 [INFO] Started monitoring @il_lazza_
+2025-11-05 20:15:03,372 [INFO] Started monitoring @kritikakhanduri__
+2025-11-05 20:15:03,372 [INFO] Started monitoring @20shop_iran
+2025-11-05 20:15:09,424 [INFO] [@20shop_iran] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:15:09,424 [INFO] [@20shop_iran] response received, but username mismatch - possibly banned
+2025-11-05 20:15:09,424 [INFO] [@20shop_iran] Next check in 297 seconds
+2025-11-05 20:15:09,659 [INFO] [@il_lazza_] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:15:09,659 [INFO] [@il_lazza_] response received, but username mismatch - possibly banned
+2025-11-05 20:15:09,659 [INFO] [@il_lazza_] Next check in 279 seconds
+2025-11-05 20:15:10,245 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:15:10,246 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 20:15:10,246 [INFO] [@kritikakhanduri__] Next check in 151 seconds
+2025-11-05 20:17:46,863 [INFO] [@kritikakhanduri__] HTTP 200 via proxy (retry: 0)
+2025-11-05 20:17:46,863 [INFO] [@kritikakhanduri__] response received, but username mismatch - possibly banned
+2025-11-05 20:17:46,864 [INFO] [@kritikakhanduri__] Next check in 254 seconds
