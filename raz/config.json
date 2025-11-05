@@ -1,12 +1,12 @@
 {
-  "DISCORD_TOKEN": "MTQyOTQ0ODA4NTU5NTIzMDI1OQ.GLqCGy.Yxiczw_CcI19E_QNhYFxit1ydL_qP-eXhpzvTY",
+  "DISCORD_TOKEN": "MTQzMjk1NDA1NDU4NTM1MjI3Mw.GbMj5N.JIyY-1elgt6PmA2a8u-X9wfN0fH9YvaPB6CfLY",
   "ADMIN_USER_IDS": [
     792372402595168316
   ],
-  "PROXY_USERNAME": "sp0n5ow837",
-  "PROXY_PASSWORD": "aicxT9xQSV3dv3b+s7",
-  "PROXY_GATEWAY": "gate.decodo.com:7000",
+  "PROXY_USERNAME": "user-spkgcgn8xf-sessionduration-1",
+  "PROXY_PASSWORD": "S0wgp2z~Ycx33cgfSB",
+  "PROXY_GATEWAY": "gate.decodo.com:10001",
   "GENERATE_SCREENSHOTS": true,
   "MIN_CHECK_INTERVAL": 40,
   "MAX_CHECK_INTERVAL": 100
-} 
+}

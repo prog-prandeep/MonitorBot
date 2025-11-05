@@ -3,10 +3,10 @@
   "ADMIN_USER_IDS": [
     792372402595168316
   ],
-  "PROXY_USERNAME": "sp0n5ow837",
+  "PROXY_USERNAME": "user-sp0n5ow837-sessionduration-1",
   "PROXY_PASSWORD": "aicxT9xQSV3dv3b+s7",
-  "PROXY_GATEWAY": "gate.decodo.com:7000",
+  "PROXY_GATEWAY": "gate.decodo.com:10001",
   "GENERATE_SCREENSHOTS": true,
   "MIN_CHECK_INTERVAL": 40,
   "MAX_CHECK_INTERVAL": 100
-} 
+}

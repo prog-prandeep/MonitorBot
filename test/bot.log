@@ -928,3 +928,89 @@ Loop thread traceback (most recent call last):
 2025-11-05 04:00:16,304 [INFO] Screenshot feature: ENABLED
 2025-11-05 04:00:16,304 [INFO] Check interval: 0-1 minutes
 2025-11-05 04:00:24,236 [INFO] Shutting down bot...
+2025-11-05 10:43:50,876 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 10:43:50,876 [INFO] ✅ Loaded 1 sessions
+2025-11-05 10:43:50,888 [INFO] logging in using static token
+2025-11-05 10:43:53,592 [INFO] Shard ID None has connected to Gateway (Session ID: de029388804a9a9a89313de076e20162).
+2025-11-05 10:43:55,611 [INFO] Bot logged in as The Goat#3906
+2025-11-05 10:43:55,611 [INFO] Session-based mode: ENABLED
+2025-11-05 10:43:55,611 [INFO] Active sessions: 1
+2025-11-05 10:43:55,612 [INFO] Screenshot feature: ENABLED
+2025-11-05 10:43:55,612 [INFO] Check interval: 0-1 minutes
+2025-11-05 10:44:27,871 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:44:27,871 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 10:44:28,442 [INFO] Started monitoring @meta
+2025-11-05 10:44:32,519 [INFO] [@meta] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:44:32,525 [INFO] [@meta] ✅ Success - Profile fetched
+2025-11-05 10:44:32,525 [INFO] [@meta] Account recovered after 4.1s
+2025-11-05 10:45:23,447 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:45:23,447 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 10:45:23,915 [INFO] Started ban monitoring for @dinar
+2025-11-05 10:45:27,243 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:45:27,243 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 10:45:27,243 [WARNING] [@dinar] 🚫 200 but NO user data - Account BANNED
+2025-11-05 10:45:27,243 [INFO] [@dinar] 🚫 BAN DETECTED after 3.3s
+2025-11-05 10:45:47,506 [INFO] Shutting down bot...
+2025-11-05 10:49:10,583 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 10:49:10,583 [INFO] ✅ Loaded 1 sessions
+2025-11-05 10:49:10,584 [INFO] logging in using static token
+2025-11-05 10:49:12,414 [INFO] Shard ID None has connected to Gateway (Session ID: 16372f7638cd47ad711b56d011df1426).
+2025-11-05 10:49:14,418 [INFO] Bot logged in as The Goat#3906
+2025-11-05 10:49:14,418 [INFO] Session-based mode: ENABLED
+2025-11-05 10:49:14,418 [INFO] Active sessions: 1
+2025-11-05 10:49:14,418 [INFO] Screenshot feature: ENABLED
+2025-11-05 10:49:14,418 [INFO] Check interval: 0-1 minutes
+2025-11-05 10:49:54,251 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:49:54,252 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 10:49:54,666 [INFO] Started monitoring @nasa
+2025-11-05 10:50:01,397 [INFO] [@nasa] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:50:01,401 [INFO] [@nasa] ✅ Success - Profile fetched
+2025-11-05 10:50:01,401 [INFO] [@nasa] Account recovered after 6.7s
+2025-11-05 10:50:12,774 [INFO] [@reed.sophia06] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:50:12,774 [INFO] [@reed.sophia06] response received, but username mismatch - possibly banned
+2025-11-05 10:50:13,170 [INFO] Started ban monitoring for @reed.sophia06
+2025-11-05 10:50:16,147 [INFO] [@reed.sophia06] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:50:16,147 [INFO] [@reed.sophia06] response received, but username mismatch - possibly banned
+2025-11-05 10:50:16,147 [WARNING] [@reed.sophia06] 🚫 200 but NO user data - Account BANNED
+2025-11-05 10:50:16,147 [INFO] [@reed.sophia06] 🚫 BAN DETECTED after 3.0s
+2025-11-05 10:50:30,705 [INFO] [@reed.sophia06] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:50:30,705 [INFO] [@reed.sophia06] response received, but username mismatch - possibly banned
+2025-11-05 10:50:31,206 [INFO] Started monitoring @reed.sophia06
+2025-11-05 10:50:34,868 [INFO] [@reed.sophia06] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:50:34,868 [INFO] [@reed.sophia06] response received, but username mismatch - possibly banned
+2025-11-05 10:50:34,868 [INFO] [@reed.sophia06] Next check in 78 seconds
+2025-11-05 10:50:59,678 [INFO] Shutting down bot...
+2025-11-05 10:53:12,396 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 10:53:12,397 [INFO] ✅ Loaded 1 sessions
+2025-11-05 10:53:12,397 [INFO] logging in using static token
+2025-11-05 10:53:14,159 [INFO] Shard ID None has connected to Gateway (Session ID: ac3e10e66a3c0f6b4a2883cac39a8801).
+2025-11-05 10:53:16,164 [INFO] Bot logged in as The Goat#3906
+2025-11-05 10:53:16,164 [INFO] Session-based mode: ENABLED
+2025-11-05 10:53:16,164 [INFO] Active sessions: 1
+2025-11-05 10:53:16,164 [INFO] Screenshot feature: ENABLED
+2025-11-05 10:53:16,165 [INFO] Check interval: 0-1 minutes
+2025-11-05 10:53:38,807 [INFO] [@reed.sophia06] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:53:38,807 [INFO] [@reed.sophia06] response received, but username mismatch - possibly banned
+2025-11-05 10:53:39,169 [INFO] Started ban monitoring for @reed.sophia06
+2025-11-05 10:53:42,094 [INFO] [@reed.sophia06] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:53:42,094 [INFO] [@reed.sophia06] response received, but username mismatch - possibly banned
+2025-11-05 10:53:42,094 [WARNING] [@reed.sophia06] 🚫 200 but NO user data - Account BANNED
+2025-11-05 10:53:42,094 [INFO] [@reed.sophia06] 🚫 BAN DETECTED after 2.9s
+2025-11-05 10:53:49,082 [INFO] Shutting down bot...
+2025-11-05 10:54:15,223 [WARNING] PyNaCl is not installed, voice will NOT be supported
+2025-11-05 10:54:15,223 [INFO] ✅ Loaded 1 sessions
+2025-11-05 10:54:15,224 [INFO] logging in using static token
+2025-11-05 10:54:16,892 [INFO] Shard ID None has connected to Gateway (Session ID: 388197219d0c9a481783e89198fc6f3f).
+2025-11-05 10:54:19,113 [INFO] Bot logged in as The Goat#3906
+2025-11-05 10:54:19,113 [INFO] Session-based mode: ENABLED
+2025-11-05 10:54:19,113 [INFO] Active sessions: 1
+2025-11-05 10:54:19,114 [INFO] Screenshot feature: ENABLED
+2025-11-05 10:54:19,114 [INFO] Check interval: 0-1 minutes
+2025-11-05 10:54:32,124 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:54:32,124 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 10:54:32,614 [INFO] Started ban monitoring for @dinar
+2025-11-05 10:54:35,224 [INFO] [@dinar] HTTP 200 via proxy (retry: 0)
+2025-11-05 10:54:35,224 [INFO] [@dinar] response received, but username mismatch - possibly banned
+2025-11-05 10:54:35,224 [WARNING] [@dinar] 🚫 200 but NO user data - Account BANNED
+2025-11-05 10:54:35,224 [INFO] [@dinar] 🚫 BAN DETECTED after 2.6s
+2025-11-05 10:54:42,803 [INFO] Shutting down bot...

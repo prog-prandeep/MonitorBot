@@ -164,9 +164,15 @@ class BanMonitorService:
         
         if channel:
             try:
-                embed = discord.Embed(title="Account Ban Detected", color=0xff0000)
-                embed.add_field(name="Username", value=f"@{username}", inline=True)
-                embed.add_field(name="Time Taken", value=elapsed_str, inline=True)
+                # embed = discord.Embed(title="Account Ban Detected", color=0xff0000)
+                # embed.add_field(name="Username", value=f"@{username}", inline=True)
+                # embed.add_field(name="Time Taken", value=elapsed_str, inline=True)
+                # await channel.send(embed=embed)
+                embed = discord.Embed(
+                    title="Monitoring Status",
+                    description=f"Success! @{username} has been banned! ❌",
+                    color=0xff0000,
+                )
                 await channel.send(embed=embed)
                 
             except Exception as e:
