@@ -6,7 +6,11 @@ import random
 from datetime import datetime
 from typing import Optional
 import discord
+import os
 import json
+
+# Directory of this module used to locate resources like bluetick.png
+HERE = os.path.dirname(os.path.abspath(__file__))
 
 logger = logging.getLogger("ig_monitor_bot")
 
@@ -18,6 +22,18 @@ class MonitorService:
         self.client = discord_client
         self.config = config
         self.active_monitors = {}  # Track active monitoring tasks
+        img_dir = globals().get("HERE") or os.path.dirname(os.path.abspath(__file__))
+        img_path = os.path.join(img_dir, 'bluetick.png')
+        # Load verification badge once at initialization
+        self.verification_badge = None
+        try:
+            with open(img_path, 'rb') as f:
+                self.verification_badge = f.read()
+            logger.info("Verification badge loaded successfully")
+        except FileNotFoundError:
+            logger.warning("bluetick.png not found - verification badges will not be displayed")
+        except Exception as e:
+            logger.error(f"Error loading verification badge: {e}")
     
     def format_elapsed_time(self, seconds: float) -> str:
         """Format elapsed time in human-readable format"""
@@ -52,11 +68,9 @@ class MonitorService:
 
             # Save response for debugging
             # try:
-
             #     def _write_debug():
             #         with open("response.json", "w", encoding="utf-8") as f:
             #             json.dump({"status_code": status_code, "data": data}, f, ensure_ascii=False, indent=2)
-
             #     await asyncio.to_thread(_write_debug)
             # except Exception as e:
             #     logger.error(f"Failed to write debug response.json: {e}")
@@ -105,6 +119,7 @@ class MonitorService:
         profile_pic_url = user.get("profile_pic_url_hd") or user.get("profile_pic_url")
         full_name = user.get("full_name", "")
         bio = user.get("biography", "")
+        is_verified = user.get("is_verified", False)
         
         elapsed = time.time() - start_time
         elapsed_str = self.format_elapsed_time(elapsed)
@@ -127,7 +142,8 @@ class MonitorService:
                         followers, 
                         following, 
                         posts,
-                        full_name, 
+                        full_name,
+                        is_verified,
                         bio, 
                         message_text
                     )
@@ -151,6 +167,7 @@ class MonitorService:
         following: int,
         posts: int,
         full_name: str,
+        is_verified: bool,
         bio: str,
         message_text: str
     ):
@@ -158,7 +175,7 @@ class MonitorService:
         # Download profile picture
         image_data = await self.instagram_api.download_profile_picture(profile_pic_url)
         
-        # Generate screenshot
+        # Generate screenshot with verification badge
         screenshot = await asyncio.to_thread(
             self.screenshot_gen.create_screenshot,
             username,
@@ -167,7 +184,9 @@ class MonitorService:
             following,
             posts,
             full_name,
-            bio
+            bio,
+            is_verified,
+            self.verification_badge  # Pass the loaded badge
         )
         
         if screenshot:
