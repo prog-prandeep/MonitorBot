@@ -3,3 +3,14 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
+ash/
+jack/
+king/
+raz/
+rengen/
+rise/
+survical/
+test/
+
+*.log
+*.json
