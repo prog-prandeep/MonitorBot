@@ -11,14 +11,9 @@ rengen/
 rise/
 survical/
 test/
-ash/bot.log
-jack/bot.log
-king/bot.log
-raz/bot.log
-rengen/bot.log
-rise/bot.log
-survical/bot.log
-test/bot.log
+
+bot.log
+monitoring.json
 
 *.log
 *.json
