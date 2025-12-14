@@ -148,7 +148,17 @@ class MonitorService:
                         message_text
                     )
                 else:
-                    await channel.send(content=message_text)
+                    embed = discord.Embed(
+                        title="Monitoring Status",
+                        description=(
+                            f"**Account Recovered | @{username} 🏆**\n"
+                            f"**Followers:** {followers:,} ✅ |\n"
+                            f"⏱️ **Time taken:** {elapsed_str}"
+                        ),
+                        color=0x2ecc71  # green sidebar like screenshot
+                    )
+                    await channel.send(embed=embed)
+
             except Exception as e:
                 logger.error(f"Error sending recovery message: {e}")
                 await channel.send(content=message_text)
