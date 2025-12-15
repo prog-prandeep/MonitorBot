@@ -39,15 +39,8 @@ class MonitorService:
         """Format elapsed time in human-readable format"""
         hours = int(seconds // 3600)
         minutes = int((seconds % 3600) // 60)
-        secs = round(seconds % 60, 1)
-        parts = []
-        if hours:
-            parts.append(f"{hours}h")
-        if minutes:
-            parts.append(f"{minutes}m")
-        if secs or not parts:
-            parts.append(f"{secs}s")
-        return ' '.join(parts)
+        secs = int(seconds % 60)
+        return f"{hours} hours, {minutes} minutes, {secs} seconds"
     
     async def monitor_account(self, username: str, channel_id: int):
         """Monitor a single account with randomized check intervals"""
@@ -85,17 +78,10 @@ class MonitorService:
                 )
                 return
             
-            # Handle errors
-            elif status_code in [400, 401]:
+            # Handle errors - just log them without adding delays
+            if status_code in [400, 401]:
                 consecutive_errors += 1
                 logger.warning(f"[@{username}] Consecutive errors: {consecutive_errors}")
-                
-                # If getting persistent 400/401, increase wait time dramatically
-                if consecutive_errors >= 3:
-                    extra_delay = random.randint(20, 40)  # 20-40 seconds extra
-                    logger.info(f"[@{username}] Adding {extra_delay}s cooldown due to detection")
-                    await asyncio.sleep(extra_delay)
-                    consecutive_errors = 0  # Reset counter
             else:
                 consecutive_errors = 0  # Reset on any other status
             
@@ -124,8 +110,11 @@ class MonitorService:
         elapsed = time.time() - start_time
         elapsed_str = self.format_elapsed_time(elapsed)
         
+        # Create clickable Instagram profile URL
+        instagram_url = f"https://instagram.com/{username}"
+        
         message_text = (
-            f"Account Recovered | @{username} 🏆✅\n"
+            f"[Account Recovered | @{username}](<{instagram_url}>) 🏆✅\n"
             f"Followers: {followers:,} | Following: {following:,}\n"
             f"⏱️ Time Taken: {elapsed_str}"
         )
@@ -151,7 +140,7 @@ class MonitorService:
                     embed = discord.Embed(
                         title="Monitoring Status",
                         description=(
-                            f"**Account Recovered | @{username} 🏆**\n"
+                            f"**[Account Recovered | @{username} 🏆](<{instagram_url}>)**\n"
                             f"**Followers:** {followers:,} ✅ |\n"
                             f"⏱️ **Time taken:** {elapsed_str}"
                         ),
