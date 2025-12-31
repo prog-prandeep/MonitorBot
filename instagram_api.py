@@ -137,7 +137,7 @@ class InstagramAPI:
                     logger.warning(f"[@{username}] Auth error ({status}) - rotating session")
                     self.session_manager.rotate_session()
                     if retry_count < max_retries:
-                        await asyncio.sleep(random.uniform(60, 120))
+                        await asyncio.sleep(random.uniform(1, 5))
                         return await self.fetch_profile(username, retry_count + 1, max_retries)
                     return status, None
                     

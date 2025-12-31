@@ -603,70 +603,166 @@ class CommandHandler:
             await message.channel.send(embed=embed)
     
     async def handle_test(self, message: discord.Message, args: str):
-        """Handle !test command (Admin only)"""
-        if not is_admin(message.author.id, self.config.admin_user_ids):
-            return
+        """Handle !test command (Admin only) - Test notification with custom time"""
         
         if not args:
             embed = discord.Embed(
                 title="❌ Usage Error",
-                description="Use: `!test username`",
+                description="Use: `!test <username> <hours> <minutes> <seconds>`\nExample: `!test cristiano 2 30 45`",
                 color=0xe74c3c
             )
             await message.channel.send(embed=embed)
             return
         
-        test_username = args.strip().lower().replace('@', '')
+        parts = args.strip().split()
+        if len(parts) != 4:
+            embed = discord.Embed(
+                title="❌ Usage Error",
+                description="Use: `!test <username> <hours> <minutes> <seconds>`\nExample: `!test cristiano 2 30 45`",
+                color=0xe74c3c
+            )
+            await message.channel.send(embed=embed)
+            return
+        
+        test_username = parts[0].lower().replace('@', '')
+        
+        try:
+            hours = int(parts[1])
+            minutes = int(parts[2])
+            seconds = int(parts[3])
+            
+            if hours < 0 or minutes < 0 or seconds < 0:
+                raise ValueError("Time values must be positive")
+            
+            # Calculate total elapsed time in seconds
+            total_elapsed = (hours * 3600) + (minutes * 60) + seconds
+            
+        except ValueError as e:
+            embed = discord.Embed(
+                title="❌ Invalid Time Values",
+                description="Please provide valid numbers for hours, minutes, and seconds.\nExample: `!test cristiano 2 30 45`",
+                color=0xe74c3c
+            )
+            await message.channel.send(embed=embed)
+            return
         
         test_msg = await message.channel.send(embed=discord.Embed(
             title="🧪 Testing...",
-            description=f"Fetching @{test_username} with current session...",
+            description=f"Fetching @{test_username} profile...",
             color=0xf1c40f
         ))
         
+        import time
         start = time.time()
         status_code, data = await self.instagram_api.fetch_profile(test_username)
-        elapsed = time.time() - start
+        fetch_time = time.time() - start
         
-        if data and data.get("data", {}).get("user"):
-            user = data["data"]["user"]
-            followers = user.get("edge_followed_by", {}).get("count", 0)
-            following = user.get("edge_follow", {}).get("count", 0)
-            response_username = user.get("username", "")
-            full_name = user.get("full_name", "")
-            bio = user.get("biography", "")
-            
+        if not data or not data.get("data", {}).get("user"):
             result = f"""
-✅ **Success!**
-**Status:** {status_code}
-**Time:** {elapsed:.2f}s
-**Response Username:** @{response_username}
-**Followers:** {followers:,}
-**Following:** {following:,}
-**Full Name:** {full_name or 'N/A'}
-**Bio:** {truncate_text(bio) or 'N/A'}
-**Session:** Active ✓
+    ❌ **Failed**
+    **Status:** {status_code or 'Timeout/Error'}
+    **Fetch Time:** {fetch_time:.2f}s
+    **Possible Issues:**
+    - Account not found or suspended
+    - Session expired/invalid
+    - Proxy blocked
+    - Bot detection
             """
-            color = 0x2ecc71
-        else:
-            result = f"""
-❌ **Failed**
-**Status:** {status_code or 'Timeout/Error'}
-**Time:** {elapsed:.2f}s
-**Possible Issues:**
-- Session expired/invalid
-- Account suspended/not found
-- Proxy blocked
-- Bot detection
-            """
-            color = 0xe74c3c
+            embed = discord.Embed(
+                title="🧪 Test Failed",
+                description=result.strip(),
+                color=0xe74c3c
+            )
+            await test_msg.edit(embed=embed)
+            return
         
-        embed = discord.Embed(
-            title="🧪 Test Results",
-            description=result.strip(),
-            color=color
+        # Account found - prepare notification
+        user = data["data"]["user"]
+        followers = user.get("edge_followed_by", {}).get("count", 0)
+        following = user.get("edge_follow", {}).get("count", 0)
+        posts = user.get("edge_owner_to_timeline_media", {}).get("count", 0)
+        profile_pic_url = user.get("profile_pic_url_hd") or user.get("profile_pic_url")
+        full_name = user.get("full_name", "")
+        bio = user.get("biography", "")
+        is_verified = user.get("is_verified", False)
+        
+        elapsed_str = format_elapsed_time(total_elapsed)
+        instagram_url = f"https://instagram.com/{test_username}"
+        
+        message_text = (
+            f"[Account Recovered | @{test_username}](<{instagram_url}>) 🏆✅\n"
+            f"Followers: {followers:,} | Following: {following:,}\n"
+            f"⏱️ Time Taken: {elapsed_str}"
         )
-        await test_msg.edit(embed=embed)
+        
+        await test_msg.delete()
+        
+        try:
+            if self.config.generate_screenshots and profile_pic_url:
+                # Download profile picture
+                image_data = await self.instagram_api.download_profile_picture(profile_pic_url)
+                
+                # Load verification badge
+                import os
+                import asyncio
+                img_dir = os.path.dirname(os.path.abspath(__file__))
+                img_path = os.path.join(img_dir, 'bluetick.png')
+                verification_badge = None
+                try:
+                    with open(img_path, 'rb') as f:
+                        verification_badge = f.read()
+                except Exception:
+                    pass
+                
+                # Generate screenshot
+                screenshot = await asyncio.to_thread(
+                    self.monitor_service.screenshot_gen.create_screenshot,
+                    test_username,
+                    image_data,
+                    followers,
+                    following,
+                    posts,
+                    full_name,
+                    bio,
+                    is_verified,
+                    verification_badge
+                )
+                
+                if screenshot:
+                    file = discord.File(screenshot, filename=f"{test_username}_profile.png")
+                    embed = discord.Embed(color=0x2ecc71)
+                    embed.set_image(url=f"attachment://{test_username}_profile.png")
+                    await message.channel.send(embed=embed, file=file, content=message_text)
+                else:
+                    # Fallback to embed without screenshot
+                    embed = discord.Embed(
+                        title="Test Notification",
+                        description=(
+                            f"**[Account Recovered | @{test_username} 🏆](<{instagram_url}>)**\n"
+                            f"**Followers:** {followers:,} ✅\n"
+                            f"**Following:** {following:,}\n"
+                            f"⏱️ **Time taken:** {elapsed_str}"
+                        ),
+                        color=0x2ecc71
+                    )
+                    await message.channel.send(embed=embed)
+            else:
+                # Screenshots disabled or no profile pic
+                embed = discord.Embed(
+                    title="Test Notification",
+                    description=(
+                        f"**[Account Recovered | @{test_username} 🏆](<{instagram_url}>)**\n"
+                        f"**Followers:** {followers:,} ✅\n"
+                        f"**Following:** {following:,}\n"
+                        f"⏱️ **Time taken:** {elapsed_str}"
+                    ),
+                    color=0x2ecc71
+                )
+                await message.channel.send(embed=embed)
+                
+        except Exception as e:
+            logger.error(f"Error sending test notification: {e}")
+            await message.channel.send(content=message_text)
     
     async def handle_help(self, message: discord.Message):
         """Handle !help command"""
