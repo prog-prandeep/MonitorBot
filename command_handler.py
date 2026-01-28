@@ -4,10 +4,47 @@ import asyncio
 import random
 import time
 import logging
+import re
 from datetime import datetime
 from utils import parse_usernames, format_elapsed_time, is_admin, truncate_text
 
 logger = logging.getLogger("ig_monitor_bot")
+
+def parse_usernames_or_links(args: str) -> list:
+    """
+    Parse usernames or Instagram links from command arguments.
+    Supports:
+    - Plain usernames: username1 username2
+    - Instagram links: instagram.com/username, https://instagram.com/username
+    - Mixed: username1 instagram.com/username2
+    
+    Returns list of cleaned usernames (without @ or URLs)
+    """
+    if not args:
+        return []
+    
+    # Instagram URL pattern - matches various formats
+    # instagram.com/username, www.instagram.com/username, https://instagram.com/username
+    url_pattern = r'(?:https?://)?(?:www\.)?instagram\.com/([a-zA-Z0-9._]+)/?'
+    
+    # Split by whitespace
+    parts = args.strip().split()
+    usernames = []
+    
+    for part in parts:
+        # Try to match Instagram URL
+        url_match = re.search(url_pattern, part, re.IGNORECASE)
+        if url_match:
+            username = url_match.group(1).lower().replace('@', '')
+            if username and username not in usernames:
+                usernames.append(username)
+        else:
+            # Treat as plain username
+            username = part.lower().replace('@', '').strip()
+            if username and username not in usernames:
+                usernames.append(username)
+    
+    return usernames
 
 class CommandHandler:
     def __init__(self, monitor_service, ban_monitor_service, data_manager, ban_data_manager, 
@@ -28,18 +65,18 @@ class CommandHandler:
         if not args:
             embed = discord.Embed(
                 title="❌ Usage Error",
-                description="Use: `!unban username` or `!unban username1 username2`",
+                description="Use: `!unban username` or `!unban username1 username2` or `!unban instagram.com/username`",
                 color=0xe74c3c
             )
             await message.channel.send(embed=embed)
             return
         
-        usernames = parse_usernames(args)
+        usernames = parse_usernames_or_links(args)
         
         if not usernames:
             embed = discord.Embed(
                 title="❌ No Valid Usernames",
-                description="Please provide at least one valid username.",
+                description="Please provide at least one valid username or Instagram link.",
                 color=0xe74c3c
             )
             await message.channel.send(embed=embed)
@@ -137,18 +174,18 @@ class CommandHandler:
         if not args:
             embed = discord.Embed(
                 title="❌ Usage Error",
-                description="Use: `!ban username` or `!ban username1 username2`",
+                description="Use: `!ban username` or `!ban username1 username2` or `!ban instagram.com/username`",
                 color=0xe74c3c
             )
             await message.channel.send(embed=embed)
             return
         
-        usernames = parse_usernames(args)
+        usernames = parse_usernames_or_links(args)
         
         if not usernames:
             embed = discord.Embed(
                 title="❌ No Valid Usernames",
-                description="Please provide at least one valid username.",
+                description="Please provide at least one valid username or Instagram link.",
                 color=0xe74c3c
             )
             await message.channel.send(embed=embed)
@@ -274,7 +311,7 @@ class CommandHandler:
             await message.channel.send(embed=embed)
             return
         
-        usernames = parse_usernames(args)
+        usernames = parse_usernames_or_links(args)
         stopped = []
         not_found = []
         
@@ -331,7 +368,7 @@ class CommandHandler:
             await message.channel.send(embed=embed)
             return
         
-        usernames = parse_usernames(args)
+        usernames = parse_usernames_or_links(args)
         stopped = []
         not_found = []
         
@@ -364,45 +401,47 @@ class CommandHandler:
         
         embed = discord.Embed(title="👁️ Monitored Accounts", color=0x1abc9c)
         
-        # Unban monitoring list
-        if unban_accounts:
-            unban_list = []
-            for username, data in unban_accounts.items():
+        # Helper function to split long lists into multiple fields
+        def add_account_fields(embed, accounts, emoji, label):
+            if not accounts:
+                embed.add_field(name=f"{emoji} {label}", value="No accounts", inline=False)
+                return
+            
+            account_list = []
+            for username, data in accounts.items():
                 started = datetime.fromisoformat(data["started_at"])
                 elapsed = datetime.now() - started
-                unban_list.append(f"• **@{username}** ({format_elapsed_time(elapsed.total_seconds())})")
+                account_list.append(f"• **@{username}** ({format_elapsed_time(elapsed.total_seconds())})")
             
-            embed.add_field(
-                name="🔓 Unban Monitoring",
-                value="\n".join(unban_list),
-                inline=False
-            )
-        else:
-            embed.add_field(
-                name="🔓 Unban Monitoring",
-                value="No accounts",
-                inline=False
-            )
+            # Split into chunks that fit within 1024 characters
+            current_chunk = []
+            current_length = 0
+            field_num = 1
+            
+            for account in account_list:
+                account_length = len(account) + 1  # +1 for newline
+                
+                if current_length + account_length > 1024:
+                    # Add current chunk as a field
+                    field_name = f"{emoji} {label}" if field_num == 1 else f"{emoji} {label} (cont.)"
+                    embed.add_field(name=field_name, value="\n".join(current_chunk), inline=False)
+                    
+                    # Start new chunk
+                    current_chunk = [account]
+                    current_length = account_length
+                    field_num += 1
+                else:
+                    current_chunk.append(account)
+                    current_length += account_length
+            
+            # Add remaining accounts
+            if current_chunk:
+                field_name = f"{emoji} {label}" if field_num == 1 else f"{emoji} {label} (cont.)"
+                embed.add_field(name=field_name, value="\n".join(current_chunk), inline=False)
         
-        # Ban monitoring list
-        if ban_accounts:
-            ban_list = []
-            for username, data in ban_accounts.items():
-                started = datetime.fromisoformat(data["started_at"])
-                elapsed = datetime.now() - started
-                ban_list.append(f"• **@{username}** ({format_elapsed_time(elapsed.total_seconds())})")
-            
-            embed.add_field(
-                name="🚫 Ban Monitoring",
-                value="\n".join(ban_list),
-                inline=False
-            )
-        else:
-            embed.add_field(
-                name="🚫 Ban Monitoring",
-                value="No accounts",
-                inline=False
-            )
+        # Add both account types
+        add_account_fields(embed, unban_accounts, "🔓", "Unban Monitoring")
+        add_account_fields(embed, ban_accounts, "🚫", "Ban Monitoring")
         
         await message.channel.send(embed=embed)
     
@@ -770,12 +809,14 @@ class CommandHandler:
 **Unban Monitoring:**
 `!unban <username>` - Monitor for account recovery
 `!unban <user1> <user2>` - Monitor multiple
+`!unban instagram.com/username` - Monitor using link
 `!clearunban <username>` - Stop unban monitoring
 `!clearunban all` - Stop all unban monitors
 
 **Ban Monitoring:**
 `!ban <username>` - Monitor for account ban
 `!ban <user1> <user2>` - Monitor multiple
+`!ban instagram.com/username` - Monitor using link
 `!clearban <username>` - Stop ban monitoring
 `!clearban all` - Stop all ban monitors
 
@@ -783,6 +824,13 @@ class CommandHandler:
 `!list` - Show all monitored accounts
 `!ping` - Check bot status
 `!help` - Show this message
+
+**Note:** You can use usernames, @usernames, or Instagram links in any format:
+• `username`
+• `@username`
+• `instagram.com/username`
+• `https://instagram.com/username`
+• `https://www.instagram.com/username`
         """
         
         embed = discord.Embed(
