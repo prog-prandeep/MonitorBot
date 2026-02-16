@@ -1,127 +1,130 @@
-"""Instagram API interaction module with session management"""
-import aiohttp
+"""Instagram API interaction module with session management and advanced fingerprint evasion"""
 import asyncio
 import random
 import logging
 import hashlib
 import uuid
+import time
 from typing import Optional, Tuple, Dict
+from curl_cffi.requests import AsyncSession
 
 logger = logging.getLogger("ig_monitor_bot")
 
-# Latest Instagram Android user agents (Jan 2025)
+# Latest real browser user agents (Updated 2025)
 USER_AGENTS = [
-    "Instagram 315.0.0.42.97 Android (33/13; 480dpi; 1080x2400; Xiaomi; 2201123G; lisa; qcom; en_US; 560107895)",
-    "Instagram 314.0.0.37.120 Android (32/12; 420dpi; 1080x2340; samsung; SM-G998B; p3s; exynos2100; en_US; 558642214)",
-    "Instagram 313.1.0.37.104 Android (31/12; 440dpi; 1080x2400; OnePlus; LE2121; OnePlus9Pro; qcom; en_US; 557512458)",
-    "Instagram 312.0.0.42.109 Android (33/13; 560dpi; 1440x3200; Xiaomi; M2012K11AG; venus; qcom; en_US; 555841423)",
-    "Instagram 311.0.0.41.109 Android (30/11; 480dpi; 1080x2400; OPPO; CPH2207; OP4F2F; qcom; en_US; 554147875)",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
 ]
+
+# Browser impersonation options for curl_cffi (verified supported versions)
+BROWSER_VERSIONS = [
+    "chrome120",
+    "chrome119",
+    "chrome116",
+    "chrome110",
+    "chrome107",
+]
+
 
 class InstagramAPI:
     def __init__(self, session_manager, proxy_url: Optional[str] = None):
         self.session_manager = session_manager
         self.proxy_url = proxy_url
-        self.session: Optional[aiohttp.ClientSession] = None
+        self.request_count = 0
     
-    async def get_session(self):
-        """Get or create HTTP session"""
-        if self.session is None or self.session.closed:
-            connector = aiohttp.TCPConnector(limit=10, limit_per_host=2)
-            timeout = aiohttp.ClientTimeout(total=30, connect=10)
-            self.session = aiohttp.ClientSession(connector=connector, timeout=timeout)
-        return self.session
+    def _get_browser_version(self) -> str:
+        """Get random browser version for impersonation"""
+        return random.choice(BROWSER_VERSIONS)
     
-    async def close(self):
-        """Close HTTP session"""
-        if self.session and not self.session.closed:
-            await self.session.close()
-    
-    def _generate_device_id(self) -> str:
-        """Generate realistic Android device ID"""
-        return str(uuid.uuid4())
-    
-    def _generate_headers(self, username: str, sessionid: str) -> Dict[str, str]:
-        """Generate realistic Instagram mobile app headers with session cookie"""
-        user_agent = random.choice(USER_AGENTS)
-        device_id = self._generate_device_id()
-        
+    def _generate_headers(self, sessionid: str) -> Dict[str, str]:
+        """Generate realistic web browser headers with session cookie"""
         headers = {
-            "User-Agent": user_agent,
-            "X-IG-App-ID": "936619743392459",
-            "X-IG-Device-ID": device_id,
-            "X-IG-Android-ID": f"android-{hashlib.md5(device_id.encode()).hexdigest()[:16]}",
-            "X-IG-App-Locale": "en_US",
-            "X-IG-Device-Locale": "en_US",
-            "X-IG-Mapped-Locale": "en_US",
-            "X-IG-Connection-Type": "WIFI",
-            "X-IG-Capabilities": "3brTv10=",
-            "X-IG-App-Startup-Country": "US",
-            "X-Bloks-Version-Id": hashlib.md5(str(int(asyncio.get_event_loop().time())).encode()).hexdigest()[:16],
-            "X-IG-WWW-Claim": "0",
-            "X-Bloks-Is-Layout-RTL": "false",
-            "X-IG-Connection-Speed": f"{random.randint(1000, 3000)}kbps",
-            "X-IG-Bandwidth-Speed-KBPS": str(random.uniform(2000.0, 5000.0)),
-            "X-IG-Bandwidth-TotalBytes-B": str(random.randint(5000000, 10000000)),
-            "X-IG-Bandwidth-TotalTime-MS": str(random.randint(200, 500)),
-            "X-IG-EU-DC-ENABLED": "true",
-            "X-IG-Extended-CDN-Thumbnail-Cache-Busting-Value": str(random.randint(1000, 9999)),
-            "X-Mid": hashlib.md5(device_id.encode()).hexdigest()[:20],
-            "Accept-Language": "en-US",
-            "Accept-Encoding": "gzip, deflate",
+            "User-Agent": random.choice(USER_AGENTS),
             "Accept": "*/*",
+            "Accept-Language": "en-US,en;q=0.9",
+            "Accept-Encoding": "gzip, deflate, br",
+            "X-IG-App-ID": "936619743392459",
+            "X-IG-WWW-Claim": "0",
+            "X-Requested-With": "XMLHttpRequest",
+            "Cookie": f"sessionid={sessionid}",
+            "Sec-Fetch-Dest": "empty",
+            "Sec-Fetch-Mode": "cors",
+            "Sec-Fetch-Site": "same-origin",
+            "Referer": "https://www.instagram.com/",
+            "Origin": "https://www.instagram.com",
             "Connection": "keep-alive",
-            "Cookie": f"sessionid={sessionid}"
         }
         
         return headers
     
-    async def fetch_profile(self, username: str, retry_count: int = 0, max_retries: int = 3) -> Tuple[Optional[int], Optional[Dict]]:
-        """Fetch Instagram profile with session rotation on errors"""
+    async def fetch_profile(
+        self, 
+        username: str, 
+        retry_count: int = 0, 
+        max_retries: int = 3
+    ) -> Tuple[Optional[int], Optional[Dict]]:
+        """Fetch Instagram profile with session rotation on errors and fingerprint evasion"""
         
-        # Exponential backoff delay
+        # Reduced exponential backoff delay
         if retry_count > 0:
-            delay = min(300, (2 ** retry_count) * 30 + random.uniform(10, 30))
+            delay = min(60, (2 ** retry_count) * 5 + random.uniform(2, 5))
             logger.info(f"Retry {retry_count}/{max_retries} for @{username} after {delay:.1f}s delay")
             await asyncio.sleep(delay)
         
-        # Random delay before request (anti-pattern detection)
-        await asyncio.sleep(random.uniform(2, 5))
+        # Random anti-pattern delay (reduced)
+        await asyncio.sleep(random.uniform(1, 3))
         
         # Get current session
         current_sessionid = self.session_manager.get_current_session()
-        headers = self._generate_headers(username, current_sessionid)
-        url = f"https://i.instagram.com/api/v1/users/web_profile_info/?username={username}"
+        browser = self._get_browser_version()
+        headers = self._generate_headers(current_sessionid)
+        url = f"https://www.instagram.com/api/v1/users/web_profile_info/?username={username}"
         
         if not self.proxy_url:
             logger.error("No proxy configured! Please add proxy credentials to config.json")
             return None, None
         
-        session = await self.get_session()
+        self.request_count += 1
+        logger.info(f"🚀 Request #{self.request_count} | @{username} | Browser: {browser} | Retry: {retry_count}/{max_retries}")
         
         try:
-            async with session.get(url, headers=headers, proxy=self.proxy_url) as response:
-                status = response.status
+            async with AsyncSession() as session:
+                response = await session.get(
+                    url,
+                    headers=headers,
+                    proxies={"http": self.proxy_url, "https": self.proxy_url},
+                    timeout=30,
+                    impersonate=browser,
+                    verify=False,
+                    allow_redirects=True
+                )
                 
-                logger.info(f"[@{username}] HTTP {status} via proxy (retry: {retry_count})")
+                status = response.status_code
+                logger.info(f"[@{username}] HTTP {status} via proxy (browser: {browser})")
                 
-                if status == 200 and username and ('data' in (await response.json()) and username.lower() == (await response.json())['data']['user']['username'].lower()):
+                if status == 200:
                     try:
-                        data = await response.json()
-                        logger.info(f"[@{username}] ✅ Success - Profile fetched")
-                        return status, data
-                        print(data)
+                        data = response.json()
+                        if 'data' in data and 'user' in data['data']:
+                            response_username = data['data']['user'].get('username', '').lower()
+                            if username.lower() == response_username:
+                                logger.info(f"[@{username}] ✅ Success - Profile fetched")
+                                return status, data
+                            else:
+                                logger.info(f"[@{username}] response received, but username mismatch - possibly banned")
+                                return status, data
+                        else:
+                            logger.warning(f"[@{username}] Unexpected response structure")
+                            return status, data
                     except Exception as e:
                         logger.error(f"[@{username}] JSON decode error: {e}")
+                        if retry_count < max_retries:
+                            return await self.fetch_profile(username, retry_count + 1, max_retries)
                         return status, None
-                if status == 200 :
-                    try:
-                        data = await response.json()
-                        logger.info(f"[@{username}] response received, but username mismatch - possibly banned")
-                        return status, data
-                    except Exception as e:
-                        logger.error(f"[@{username}] JSON decode error: {e}")
-                        return status, None
+                        
                 elif status == 404:
                     logger.info(f"[@{username}] Account not found / suspended (404)")
                     return status, None
@@ -137,7 +140,14 @@ class InstagramAPI:
                     logger.warning(f"[@{username}] Auth error ({status}) - rotating session")
                     self.session_manager.rotate_session()
                     if retry_count < max_retries:
-                        await asyncio.sleep(random.uniform(1, 5))
+                        await asyncio.sleep(random.uniform(1, 3))
+                        return await self.fetch_profile(username, retry_count + 1, max_retries)
+                    return status, None
+                
+                elif status == 502:
+                    logger.warning(f"[@{username}] Proxy error (502) - Bad Gateway")
+                    if retry_count < max_retries:
+                        await asyncio.sleep(random.uniform(3, 6))
                         return await self.fetch_profile(username, retry_count + 1, max_retries)
                     return status, None
                     
@@ -153,18 +163,91 @@ class InstagramAPI:
                 return await self.fetch_profile(username, retry_count + 1, max_retries)
             return None, None
         except Exception as e:
-            logger.error(f"[@{username}] Request error: {e}")
+            logger.error(f"[@{username}] Request error: {type(e).__name__} - {e}")
             if retry_count < max_retries:
                 return await self.fetch_profile(username, retry_count + 1, max_retries)
             return None, None
     
-    async def download_profile_picture(self, profile_pic_url: str) -> Optional[bytes]:
-        """Download profile picture from URL"""
+    async def download_profile_picture(
+        self, 
+        profile_pic_url: str, 
+        retry_count: int = 0, 
+        max_retries: int = 5
+    ) -> Optional[bytes]:
+        """Download profile picture from URL with curl_cffi and extended retry logic"""
+        
+        if retry_count > 0:
+            # Reduced delays for retries
+            if retry_count <= 2:
+                delay = random.uniform(2, 4)
+            else:
+                delay = random.uniform(5, 8)
+            
+            logger.info(f"Retrying profile picture download (attempt {retry_count}/{max_retries}) after {delay:.1f}s")
+            await asyncio.sleep(delay)
+        
         try:
-            session = await self.get_session()
-            async with session.get(profile_pic_url, proxy=self.proxy_url) as response:
-                if response.status == 200:
-                    return await response.read()
+            browser = self._get_browser_version()
+            
+            # Proper headers for image download
+            headers = {
+                "User-Agent": random.choice(USER_AGENTS),
+                "Accept": "image/webp,image/apng,image/*,*/*;q=0.8",
+                "Accept-Encoding": "gzip, deflate, br",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Connection": "keep-alive",
+                "Referer": "https://www.instagram.com/",
+                "Sec-Fetch-Dest": "image",
+                "Sec-Fetch-Mode": "no-cors",
+                "Sec-Fetch-Site": "cross-site",
+            }
+            
+            logger.info(f"📸 Downloading profile picture (browser: {browser})")
+            
+            async with AsyncSession() as session:
+                response = await session.get(
+                    profile_pic_url,
+                    headers=headers,
+                    proxies={"http": self.proxy_url, "https": self.proxy_url} if self.proxy_url else None,
+                    timeout=45,
+                    impersonate=browser,
+                    verify=False
+                )
+                
+                status = response.status_code
+                
+                if status == 200:
+                    content = response.content
+                    if len(content) > 100:
+                        logger.info(f"✅ Successfully downloaded profile picture ({len(content)} bytes)")
+                        return content
+                    else:
+                        logger.warning(f"Downloaded content too small ({len(content)} bytes)")
+                        if retry_count < max_retries:
+                            return await self.download_profile_picture(profile_pic_url, retry_count + 1, max_retries)
+                
+                elif status == 402:
+                    # Payment required - proxy bandwidth issue (temporary)
+                    logger.warning(f"Proxy returned 402 (Payment Required) - bandwidth check, retrying...")
+                    if retry_count < max_retries:
+                        await asyncio.sleep(random.uniform(6, 10))
+                        return await self.download_profile_picture(profile_pic_url, retry_count + 1, max_retries)
+                    else:
+                        logger.error("Failed to download after multiple 402 errors")
+                        return None
+                
+                else:
+                    logger.warning(f"Failed to download profile picture: HTTP {status}")
+                    if retry_count < max_retries:
+                        return await self.download_profile_picture(profile_pic_url, retry_count + 1, max_retries)
+                        
+        except asyncio.TimeoutError:
+            logger.error(f"Timeout downloading profile picture")
+            if retry_count < max_retries:
+                return await self.download_profile_picture(profile_pic_url, retry_count + 1, max_retries)
         except Exception as e:
-            logger.error(f"Error downloading profile picture: {e}")
+            logger.error(f"Error downloading profile picture: {type(e).__name__} - {e}")
+            if retry_count < max_retries:
+                return await self.download_profile_picture(profile_pic_url, retry_count + 1, max_retries)
+        
         return None
